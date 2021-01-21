@@ -111,4 +111,4 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - https://www.youtube.com/watch?v=prZJ8FBG9BI&t=6386s
 - https://github.com/cdgiessen/vk-module/blob/076baa98cba35cd93a6ab56c3fd1b1ea2313f806/sample/triangle.cpp#L234
 
-## Previous meetings doesn't have notes :-(
+## Previous meetings don't have notes :-(
