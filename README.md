@@ -9,6 +9,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
+- [Taskflow](https://github.com/taskflow/taskflow)
 - [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 - [CppCon 2018: Mark Elendt “Patterns and Techniques Used in the Houdini 3D Graphics Application ”](https://www.youtube.com/watch?v=2YXwg0n9e7E)
 - [Voxel Automata Terrian](https://bitbucket.org/BWerness/voxel-automata-terrain/src/master/)
