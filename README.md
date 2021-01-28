@@ -20,6 +20,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf)
 - [NVIDIA RTX Voice: Setup Guide](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/#RTX-Voice)
 - [NoiseTorch](https://github.com/lawl/NoiseTorch)
+- [Tweet: Realtime Photon Mapping](https://twitter.com/BramStolk/status/1353412641272696832)
 
 ## 2021-01-20 "vk_mini_path_tracer chapter 4-5"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
