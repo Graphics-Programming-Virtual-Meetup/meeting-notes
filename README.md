@@ -5,6 +5,22 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 
+## 2021-01-27 "vk_mini_path_tracer chapter 6"
+- vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
+
+### Links mentioned in the meeting
+- [Lecture 33 Probabilistic Programming](https://www.cs.cornell.edu/courses/cs4110/2016fa/lectures/lecture33.html)
+- [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
+- [IBM 9121 Mainframe CPU Teardown, TCM & MCM ES/9000](https://www.youtube.com/watch?v=s7lVfOi7su4)
+- ["Hackers: Heroes of the Computer Revolution"](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
+- [Graphics Programming weekly - Issue 167 — January 24, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-167/)
+- [Rendering dunes terrain in WebGL](https://dev.to/keaukraine/rendering-dunes-terrain-in-webgl-30k2)
+- [Simple Particle-Based Wind Erosion](https://www.reddit.com/r/proceduralgeneration/comments/k0dhvd/simple_particlebased_wind_erosion_article_source/)
+- [Organic Variety](https://catlikecoding.com/unity/tutorials/basics/organic-variety/)
+- [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf)
+- [NVIDIA RTX Voice: Setup Guide](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/#RTX-Voice)
+- [NoiseTorch](https://github.com/lawl/NoiseTorch)
+
 ## 2021-01-20 "vk_mini_path_tracer chapter 4-5"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
