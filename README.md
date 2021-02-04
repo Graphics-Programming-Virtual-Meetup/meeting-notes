@@ -5,6 +5,22 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 
+## 2021-02-03 "vk_mini_path_tracer chapter 7"
+- vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
+
+### Links mentioned in the meeting
+- [vulkan-diagrams](https://github.com/David-DiGioia/vulkan-diagrams)
+- [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
+- [Dawn, a WebGPU implementation](https://dawn.googlesource.com/dawn)
+- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect)
+- [Graphics Programming weekly - Issue 168](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-168/)
+- [Introduction to Computer Graphics](https://youtu.be/vLSphLtKQ0o)
+- [Wrapping around the uv map in 80 frames](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
+- [Yet Another Julia Set](https://www.shadertoy.com/view/wtVcDt)
+- [Klein](https://github.com/jeremyong/klein)
+- [babylonjs](https://www.babylonjs.com/)
+- [Lost amongst the rocks](https://cdgiessen.itch.io/lost-amongst-the-rocks)
+
 ## 2021-01-27 "vk_mini_path_tracer chapter 6"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
