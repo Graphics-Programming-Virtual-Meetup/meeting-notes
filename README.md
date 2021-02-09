@@ -6,6 +6,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 
 ## 2021-02-03 "vk_mini_path_tracer chapter 7"
+- Recording: https://youtu.be/X0ox76_t9fs
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
@@ -22,6 +23,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Lost amongst the rocks](https://cdgiessen.itch.io/lost-amongst-the-rocks)
 
 ## 2021-01-27 "vk_mini_path_tracer chapter 6"
+- Recording: https://youtu.be/qTYNwfrET3U
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
@@ -39,6 +41,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Tweet: Realtime Photon Mapping](https://twitter.com/BramStolk/status/1353412641272696832)
 
 ## 2021-01-20 "vk_mini_path_tracer chapter 4-5"
+- Recording: https://youtu.be/iMC97QupE5I
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
