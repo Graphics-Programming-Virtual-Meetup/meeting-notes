@@ -5,6 +5,25 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 
+## 2021-02-17 "vk_mini_path_tracer chapter 8"
+- vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
+
+### Links mentioned in the meeting
+- [nvpro-samples](https://github.com/nvpro-samples)
+- [Graphics Programming Weekly Issue 170](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-170/)
+- [Real-Time Physically Based Rendering and BRDFs](https://mechanicsfoundry.github.io/Physically-Based-Rendering-and-BRDFs/)
+- [Implementing Disney Principled BRDF in Arnold](http://shihchinw.github.io/2015/07/implementing-disney-principled-brdf-in-arnold.html)
+- [Rate-distortion optimization](https://fgiesen.wordpress.com/2018/12/10/rate-distortion-optimization/)
+- [openVDB](https://www.openvdb.org/)
+- [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
+- [Pixels? Triangles? What’s the difference? — How (I think) Nanite renderes a demo with 10¹¹ tris](https://www.reddit.com/r/hardware/comments/gkcd9b/pixels_triangles_whats_the_difference_how_i_think/)
+- [Twitter thread on Graphics jobs](https://twitter.com/Atrix256/status/1359859183047176197)
+- [Machine Learning Denoising](https://alain.xyz/blog/machine-learning-denoising)
+- [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination](https://research.nvidia.com/publication/2017-07_Spatiotemporal-Variance-Guided-Filtering%3A)
+- [Neural Stanford Bunny (5kb)](https://www.shadertoy.com/view/wtVyWK)
+- [Writing a SIGGRAPH paper (for fun)](https://www.mattkeeter.com/projects/siggraph/)
+- [Slug font rendering library](https://sluglibrary.com/)
+
 ## 2021-02-03 "vk_mini_path_tracer chapter 7"
 - Recording: https://youtu.be/X0ox76_t9fs
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
