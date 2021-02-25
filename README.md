@@ -5,6 +5,33 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 
+## 2021-02-24 "vk_mini_path_tracer chapter 9-11"
+- vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
+
+### Links mentioned in the meeting
+- [filament](https://github.com/google/filament)
+- [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html#materialsystem/specularbrdf/geometricshadowing(specularg))
+- [learnopengl.com/PBR/Theory](https://learnopengl.com/PBR/Theory)
+- [Everything (or most things) wrong with https://learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
+- [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
+- [Texturing and Rendering Glass with Ray Tracing in Toolbag 4](https://marmoset.co/posts/texturing-and-rendering-glass-with-ray-tracing-in-toolbag-4/)
+- [Why the bottles in Half-Life: Alyx look so dang good](https://www.polygon.com/videos/2021/1/6/22213232/half-life-alyx-liquid-bottle-shaders)
+- [VK_KHR_ray_query Manual Page](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_ray_query.html)
+- [Ray Tracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+- [Vulkan® 1.2.170 - A Specification 37. Ray Traversal](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/chap38.html#ray-traversal)
+- [Shadertoy: Rapidly Evolving Fluid](https://www.shadertoy.com/view/MtdBDB)
+- [Voraldo 1.2 Gallery](https://ibb.co/album/xSfzLp)
+- [Graphics Programming weekly - Issue 171 — February 21, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-171/)
+- [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel offset](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
+- [second tech art thread on the stylized rendering of “Dungeons of #Hinterberg”](https://threadreaderapp.com/thread/1362466015976783872.html)
+- [Temporally Reliable Motion Vectors for Real-time Ray Tracing](https://sites.cs.ucsb.edu/~lingqi/#publications)
+- [More (Robust) Frustum Culling](https://bruop.github.io/improved_frustum_culling/)
+- [Minnaert For People Who Don't Know How To Minnaert](https://www.patreon.com/posts/minnaert-for-who-47518737)
+- [Vulkan Memory Types on PC and How to Use Them](https://asawicki.info/news_1740_vulkan_memory_types_on_pc_and_how_to_use_them)
+- [VK_KHR_synchronization2](https://github.com/KhronosGroup/Vulkan-Guide/blob/master/chapters/extensions/VK_KHR_synchronization2.md)
+- [Tuxedo Labs Teardown Technical Teardown - Twitch vod 26/11](https://youtu.be/0VzE8ROwC58)
+- [Haskell in industry](https://wiki.haskell.org/Haskell_in_industry)
+
 ## 2021-02-17 "vk_mini_path_tracer chapter 8"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
