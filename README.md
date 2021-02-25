@@ -11,7 +11,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 
 ### Links mentioned in the meeting
 - [filament](https://github.com/google/filament)
-- [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html#materialsystem/specularbrdf/geometricshadowing(specularg))
+- [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [learnopengl.com/PBR/Theory](https://learnopengl.com/PBR/Theory)
 - [Everything (or most things) wrong with learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
 - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
