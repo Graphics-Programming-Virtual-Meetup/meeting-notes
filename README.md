@@ -12,7 +12,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [filament](https://github.com/google/filament)
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html#materialsystem/specularbrdf/geometricshadowing(specularg))
 - [learnopengl.com/PBR/Theory](https://learnopengl.com/PBR/Theory)
-- [Everything (or most things) wrong with https://learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
+- [Everything (or most things) wrong with learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
 - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [Texturing and Rendering Glass with Ray Tracing in Toolbag 4](https://marmoset.co/posts/texturing-and-rendering-glass-with-ray-tracing-in-toolbag-4/)
 - [Why the bottles in Half-Life: Alyx look so dang good](https://www.polygon.com/videos/2021/1/6/22213232/half-life-alyx-liquid-bottle-shaders)
@@ -33,6 +33,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Haskell in industry](https://wiki.haskell.org/Haskell_in_industry)
 
 ## 2021-02-17 "vk_mini_path_tracer chapter 8"
+- Recording: https://youtu.be/ce3K42BPGLY
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
