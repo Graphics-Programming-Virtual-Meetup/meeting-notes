@@ -4,6 +4,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
+- Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## 2021-02-24 "vk_mini_path_tracer chapter 9-11"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
