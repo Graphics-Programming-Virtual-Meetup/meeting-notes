@@ -6,7 +6,30 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-03 "vk_mini_path_tracer chapter 12-13"
+- vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
+
+### Links mentioned in the meeting
+- [PCG, A Family of Better Random Number Generators](https://www.pcg-random.org/index.html)
+- [Hash Functions for GPU Rendering](http://jcgt.org/published/0009/03/02/paper.pdf)
+- [noise blur comparison](https://alain.xyz/blog/ray-tracing-filtering/assets/noise-blur-comparison.png)
+- [Generating Blue Noise Sample Points With Mitchell’s Best Candidate Algorithm](https://blog.demofox.org/2017/10/20/generating-blue-noise-sample-points-with-mitchells-best-candidate-algorithm/)
+- [Shadertoy- Blue Noise Generator](https://www.shadertoy.com/view/XtdyW2)
+- [Graphics Programming weekly - Issue 172](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-172/)
+- [The CRYENGINE Rendering Pipeline](https://www.youtube.com/watch?v=34S3onEr3r8&feature=youtu.be)
+- [Experimenting with Shader Graph: Doing more with less](https://blogs.unity3d.com/2021/02/24/experimenting-with-shader-graph-doing-more-with-less/)
+- [Shaders For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
+- [Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless/)
+- [Per-Texel Deferred Lighting](https://www.kickstarter.com/projects/prophetgoddess/anathema/posts/3109106)
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [Wavefront Path Tracing](https://jacco.ompf2.com/2019/07/18/wavefront-path-tracing/)
+- [Megakernels Considered Harmful: Wavefront Path Tracing on GPUs](https://research.nvidia.com/publication/megakernels-considered-harmful-wavefront-path-tracing-gpus)
+- [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/)
+- [Halcyon Architecture “Director’s Cut”](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/wihlidal-halcyonarchitecture.pdf)
+- [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
+
 ## 2021-02-24 "vk_mini_path_tracer chapter 9-11"
+- Recording: https://youtu.be/Y3GgBTQmUdc
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
