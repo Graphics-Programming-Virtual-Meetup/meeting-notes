@@ -6,7 +6,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-03-03 "Voraldo: a voxel volume making program"
+## 2021-03-10 "Voraldo: a voxel volume making program"
 - [Voraldo v1.1: A GPU-Based Voxel Editor with Support for Volumetric Lighting Effects](https://jbaker.graphics/resources/voraldo_paper/Voraldo.pdf)
 
 ### Links mentioned in the meeting
