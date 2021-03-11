@@ -7,6 +7,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## 2021-03-10 "Voraldo: a voxel volume making program"
+- Recording: Upcoming
 - [Voraldo v1.1: A GPU-Based Voxel Editor with Support for Volumetric Lighting Effects](https://jbaker.graphics/resources/voraldo_paper/Voraldo.pdf)
 
 ### Links mentioned in the meeting
@@ -26,6 +27,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
 
 ## 2021-03-03 "vk_mini_path_tracer chapter 12-13"
+- Recording: https://youtu.be/-U8ByrTMvyg
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
 ### Links mentioned in the meeting
