@@ -6,6 +6,25 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-03 "Voraldo: a voxel volume making program"
+- [Voraldo v1.1: A GPU-Based Voxel Editor with Support for Volumetric Lighting Effects](https://jbaker.graphics/resources/voraldo_paper/Voraldo.pdf)
+
+### Links mentioned in the meeting
+- [Embergen](https://jangafx.com/software/embergen/)
+- [Graphics Programming weekly - Issue 173 — March 7, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-173/)
+- [Ray Traversal of OpenVDB Frustum Grids](http://jcgt.org/published/0010/01/03/)
+- [New game changing Vulkan extensions for mobile: Timeline Semaphores](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/vulkan-timeline-semaphores)
+- [Vulkan SDK Offers Developers a Smooth Transition Path to Synchronization2](https://www.khronos.org/blog/vulkan-sdk-offers-developers-a-smooth-transition-path-to-synchronization2)
+- [Computing gradients on grids of pixels and voxels – forward, central, and… diagonal differences](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
+- [FXAA Fast approXimate Anti-Aliasing](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
+- [Nioh 2 DLSS Analysis: AI Upscaling's Toughest Test Yet?](https://www.youtube.com/watch?v=6BwAlN1Rz5I)
+- [DLSS On 240p Video Games Is Some Witchcraft](https://kotaku.com/dlss-on-240p-video-is-some-witchcraft-1845293295)
+- [GDC 2017 PBR Diffuse Lighting for GGX+Smith Microsurfaces](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
+- [FidelityFX](https://gpuopen.com/fidelityfx-cas/)
+- [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [Nested Dielectrics](https://blog.yiningkarlli.com/2019/05/nested-dielectrics.html)
+- [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
+
 ## 2021-03-03 "vk_mini_path_tracer chapter 12-13"
 - vk_mini_path_tracer tutorial: https://nvpro-samples.github.io/vk_mini_path_tracer/index.html
 
