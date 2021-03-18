@@ -6,6 +6,43 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-17 "Raytracing in Call of Duty: Modern Warefare"
+- Recording: Upcoming
+- [Source Presentation slides](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) 
+
+### Links mentioned in the meeting
+- [Michał Olejnik - Raytraced Shadows in Call of Duty: Modern Warfare video presentation](https://www.youtube.com/watch?v=VXp-HEAw-l4) 
+- [Michał Olejnik Twitter](https://twitter.com/olej3d)
+- [Pawel Kozlowski](https://twitter.com/PawPawDH)
+- [DigitalFoundry deep dive](https://www.eurogamer.net/articles/digitalfoundry-2020-call-of-duty-modern-warfare-warzone-tech-deep-dive)
+- [Introduction to DirectX Raytracing class](https://www.youtube.com/watch?v=Q1cuuepVNoY) 
+- [about BVH construction](https://www.khronos.org/assets/uploads/developers/library/2020-khronos-spring/Vulkan-Ray-Tracing-Launch-Mar20.pdf) 
+- [Jendrik Weekly 174](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-174/) 
+- [Fitting cubic Bézier curves](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html) 
+- [Jurrassic World: Evolution Frame Analysis](http://www.elopezr.com/the-rendering-of-jurassic-world-evolution/) 
+- [SHADERed Debugging Features](https://shadered.org/blog?id=7) 
+- [OpenGL on DirectX](https://kusma.xyz/blog/2021/03/10/d3d12-upstreaming.html) 
+- [SORT Shading Language](https://agraphicsguynotes.com/posts/making_a_shading_lagnauge_for_my_offline_renderer/) 
+- [OpenShadingLanguage](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage) 
+- [ShaderToy Advanced Tricks](https://shadertoyunofficial.wordpress.com/2021/03/09/advanced-tricks/) 
+- [3D Math Primer for Graphics and Game Development Book available online for free](https://gamemath.com/) 
+- [spherical harmonics for ambient occlusion](https://web.archive.org/web/20190224074926/https://peach.blender.org/2008/01/approximate-ambient-occlusion/) 
+- [old style fire effect tutorial](https://lodev.org/cgtutor/fire.html 
+- [The Polygons of Another World](https://fabiensanglard.net/another_world_polygons/index.html) 
+[10:28 PM]
+- [Hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution) 
+- [Bill Gates Open Letter to Hobbyists](https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists) 
+- [Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine) 
+- [Feature Guided Path Redirection for VR](https://www.cs.purdue.edu/cgvlab/papers/popescu/2020IEEEVRFeatureGuidedPathRedirectionPopescu.pdf) 
+- [Yedoma Globula](https://bananaft.itch.io/yedomaglobula)
+- [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [Spherical Harmonics](https://www.reddit.com/r/GraphicsProgramming/comments/m19ith/explain_to_me_like_i_am_5_using_spherical/) 
+- [Nyquist-Shannon; The Backbone of Digital Sound](https://www.youtube.com/watch?v=pWjdWCePgvA)
+- [Age of Empires article 1](https://arstechnica.com/gaming/2018/01/the-age-of-age-of-empires-as-told-by-the-devs-who-built-it/)
+- [Age of Empires article 2](https://www.shacknews.com/article/120300/bet-on-black-how-microsoft-and-xbox-changed-pop-culture-part-1?page=6#detail-view)
+- [Ultimate Admiral Dreadnought](https://www.dreadnoughts.ultimateadmiral.com/) 
+- [Naval Historian Channel](https://www.youtube.com/channel/UC4mftUX7apmV1vsVXZh7RTw) 
+
 ## 2021-03-10 "Voraldo: a voxel volume making program"
 - Recording: Upcoming
 - [Voraldo v1.1: A GPU-Based Voxel Editor with Support for Volumetric Lighting Effects](https://jbaker.graphics/resources/voraldo_paper/Voraldo.pdf)
