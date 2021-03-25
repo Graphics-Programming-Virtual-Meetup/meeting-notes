@@ -10,9 +10,9 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Recording: Upcoming
 
 ### Links mentioned in the meeting
-- [Box Muller Transform] (https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
+- [Box Muller Transform](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
 - [Timeout Detection & Recovery (TDR)](https://docs.nvidia.com/gameworks/content/developertools/desktop/timeout_detection_recovery.htm)
-- [Magic in the Vulkan Loader] (https://github.com/KhronosGroup/Vulkan-Loader/blob/master/loader/LoaderAndLayerInterface.md#icd-dispatchable-object-creation)
+- [Magic in the Vulkan Loader](https://github.com/KhronosGroup/Vulkan-Loader/blob/master/loader/LoaderAndLayerInterface.md#icd-dispatchable-object-creation)
 - [Jendrik Weekly 175](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-175/) 
 - [Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering](http://igg.unistra.fr/People/chermain/glint_anti_aliasing/)
 - [Screen-Space Reflections Explained](https://jhstrom.blogspot.com/2021/03/screen-space-reflections-explained.html)
