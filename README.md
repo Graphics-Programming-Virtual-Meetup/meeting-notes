@@ -6,6 +6,28 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-24 "vk_mini_path_tracer extras: Chapter 1-6"
+- Recording: Upcoming
+
+### Links mentioned in the meeting
+- [Timeout Detection & Recovery (TDR)](https://docs.nvidia.com/gameworks/content/developertools/desktop/timeout_detection_recovery.htm)
+- [Jendrik Weekly 175](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-175/) 
+- [Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering](http://igg.unistra.fr/People/chermain/glint_anti_aliasing/)
+- [Screen-Space Reflections Explained](https://jhstrom.blogspot.com/2021/03/screen-space-reflections-explained.html)
+- [https://towardsdatascience.com/how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9#4218-42d96b4589ee](https://towardsdatascience.com/how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9?gi=16d091e680d3#4218-42d96b4589ee)
+- [\[video\] Adding Shadow Casting to Grass Baked with Compute Shaders](https://www.youtube.com/watch?v=IPoHY_yJxMc)
+- [Distributing Monte Carlo errors as Blue Noise in Screen Space, Part 1 - Theory and Sorting](https://gamehacker1999.github.io/posts/bluenoiseerrors/)
+- [ShaderQuest Part 4: Shader Environment Architecture](https://halisavakis.com/shaderquest-part-4-shader-environment-architecture/)
+- [Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
+- [A Better Default Colormap for Matplotlib | SciPy 2015 | Nathaniel Smith and Stéfan van der Walt](https://www.youtube.com/watch?v=xAoljeRJ3lU)
+- [i3D 2021 - Papers Program](http://i3dsymposium.github.io/2021/papers.html)
+- [Soft Foliage Shader Breakdown](https://www.cyanilux.com/tutorials/soft-foliage-shader-breakdown/)
+- [Stochastic-Depth Ambient Occlusion](https://graphics.tudelft.nl/Publications-new/2021/VSE21/)
+- [Learn OpenGL: OIT](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction)
+- [volumetric sort](https://iquilezles.org/www/articles/volumesort/volumesort.htm)
+- [Weighted, Blended Order-Independent Transparency](http://casual-effects.blogspot.com/2014/03/weighted-blended-order-independent.html)
+- [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
+
 ## 2021-03-17 "Raytracing in Call of Duty: Modern Warefare"
 - Recording: Upcoming
 - [Source Presentation slides](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) 
