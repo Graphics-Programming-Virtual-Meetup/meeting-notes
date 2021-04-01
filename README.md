@@ -43,11 +43,11 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [How to fix color banding with dithering](https://www.anisopteragames.com/how-to-fix-color-banding-with-dithering/)
 - [Dithered Raymarching, Part 2: Color Spaces](https://jbaker.graphics/writings/sdf2.html)
 - [xkcd: Color Pattern](https://xkcd.com/1814/)
-- [Wikipedia - Moire Patterns] (https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) 
+- [Wikipedia - Moire Patterns](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) 
 - [Computational Graphics Pronunciation Guide](https://morgan3d.github.io/articles/2016-03-20-pronunciation/index.html)
-- [Gamedev Pronunciation Guide] (https://www.alanzucconi.com/2021/01/11/gamedev-pronunciation-guide/)
-- [EDX - UCSD course] (https://www.edx.org/course/computer-graphics-2) 
-- [EDX - Signal Processing Courses] (https://www.edx.org/search?q=signal%2520processing)
+- [Gamedev Pronunciation Guide](https://www.alanzucconi.com/2021/01/11/gamedev-pronunciation-guide/)
+- [EDX - UCSD course](https://www.edx.org/course/computer-graphics-2) 
+- [EDX - Signal Processing Courses](https://www.edx.org/search?q=signal%2520processing)
 
 ## 2021-03-24 "vk_mini_path_tracer extras: Chapter 1-6"
 - Recording: Upcoming
