@@ -6,6 +6,45 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-31 "Paper Reading: A Pixel is not a Little Square!"
+- Recording: Upcoming
+- Paper: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+- Some Twitter discussion: https://twitter.com/nbonneel/status/1376882763278782464
+
+### Links mentioned in the meeting
+- [Wikipedia - Point spread function](https://en.wikipedia.org/wiki/Point_spread_function)
+- [Wikipedia - Quincunx](https://en.wikipedia.org/wiki/Quincunx)
+- [Wikipedia - PenTile matrix family](https://en.wikipedia.org/wiki/PenTile_matrix_family)
+- [Wikipedia - Minimum bounding rectangle](https://en.wikipedia.org/wiki/Minimum_bounding_rectangle)
+- [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
+- [Superuser - Why are pixels square?](https://superuser.com/questions/1019825/why-are-pixels-square)
+- [Breaking the physical limits of fonts](https://github.com/graphitemaster/breaking_the_physical_limits_of_fonts#breaking-the-physical-limits-of-fonts)
+- [Pseudo-bandlimited pixel art filtering in 3D – a mathematical derivation](https://themaister.net/blog/2018/08/25/pseudo-bandlimited-pixel-art-filtering-in-3d-a-mathematical-derivation/)
+- [MMPX Style-Preserving Pixel Art Magnification](https://casual-effects.com/research/McGuire2021PixelArt/index.html)
+- [Wikipedia - Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter)
+- [Clarisse wiki - filtering](https://clarissewiki.com/4.0/filtering.html)
+- [V-Ray Docs - Image Filter](https://docs.chaosgroup.com/display/VMAX/Image+Filter)
+- [Wikipedia - Ringing artifacts](https://en.wikipedia.org/wiki/Ringing_artifacts)
+- [Twitter thread - Gabor](https://twitter.com/Rainmaker1973/status/1376243555270848512)
+- [Wikipedia - Gabor filter](https://en.wikipedia.org/wiki/Gabor_filter)
+- [How JPG Works](https://www.freecodecamp.org/news/how-jpg-works-a4dbd2316f35/)
+- [Video - Nyquist-Shannon; The Backbone of Digital Sound](https://www.youtube.com/watch?v=pWjdWCePgvA)
+- [Graphics Programming weekly - Issue 176 — March 28, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-176/)
+- [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
+- [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
+- [Khan Academy: Electric Engineering](https://www.khanacademy.org/science/electrical-engineering)
+- [Khan Academy: Pixar in a Box](https://www.khanacademy.org/computing/pixar)
+- [Github - JarkkoPFC/meshlete](https://github.com/JarkkoPFC/meshlete)
+- [PlenOctrees For Real-time Rendering of Neural Radiance Fields](http://alexyu.net/plenoctrees/)
+- [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+- [Twitter Thread - Valheim rendering performance](https://threadreaderapp.com/thread/1375270184953389060.html)
+- [Wall Cutout in Shader Graph and URP](https://danielilett.com/2021-03-19-tut5-15-wall-cutout/)
+- [How to fix color banding with dithering](https://www.anisopteragames.com/how-to-fix-color-banding-with-dithering/)
+- [Video - This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)
+- [Dithered Raymarching, Part 2: Color Spaces](https://jbaker.graphics/writings/sdf2.html)
+- [xkcd: Color Pattern](https://xkcd.com/1814/)
+- [Computational Graphics Pronunciation Guide](https://morgan3d.github.io/articles/2016-03-20-pronunciation/index.html)
+
 ## 2021-03-24 "vk_mini_path_tracer extras: Chapter 1-6"
 - Recording: Upcoming
 
