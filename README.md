@@ -48,6 +48,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Gamedev Pronunciation Guide](https://www.alanzucconi.com/2021/01/11/gamedev-pronunciation-guide/)
 - [EDX - UCSD course](https://www.edx.org/course/computer-graphics-2) 
 - [EDX - Signal Processing Courses](https://www.edx.org/search?q=signal%2520processing)
+- [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
 
 ## 2021-03-24 "vk_mini_path_tracer extras: Chapter 1-6"
 - Recording: Upcoming
