@@ -6,6 +6,30 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-03-24 "vk_mini_path_tracer extras: Chapter 7"
+- Recording: Upcoming
+- vk_mini_path_tracer extra chapters: https://nvpro-samples.github.io/vk_mini_path_tracer/extras.html
+
+### Links mentioned in the meeting
+- [glslang](https://github.com/KhronosGroup/glslang)
+- [Futhark Programming Language](https://futhark-lang.org/)
+- [Winter](https://github.com/glaretechnologies/winter)
+- [Indigo Renderer](https://www.indigorenderer.com/)
+- [vuh: A Vulkan-based GPGPU computing framework](https://github.com/Glavnokoman/vuh)
+- [Wikipedia - Tracing just-in-time compilation](https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation)
+- [The Secret Life of Photons - Simulating 2D Light Transport](https://benedikt-bitterli.me/tantalum/)
+- [Countering Racial Bias in Computer Graphics Research](https://arxiv.org/abs/2103.15163)
+- [vk-module](https://github.com/cdgiessen/vk-module)
+- [Ray tracing Jell-O brand gelatin](https://www.researchgate.net/publication/220721478_Ray_tracing_Jell-O_brand_gelatin)
+- [flipcode.com](https://www.flipcode.com/archives)
+- [Robust Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/)
+- [Rendering Millions of Dynamic Lights in Real-Time](https://developer.nvidia.com/blog/rendering-millions-of-dynamics-lights-in-realtime/)
+- [Wikipedia - Mode 13h](https://en.wikipedia.org/wiki/Mode_13h)
+- [slang](https://github.com/shader-slang/slang)
+- [p5.js](https://editor.p5js.org/)
+- [Wikipedia: Z-order curve](https://en.wikipedia.org/wiki/Z-order_curve)
+- [Understanding the Efficiency of Ray Traversal on GPUs](https://research.nvidia.com/publication/understanding-efficiency-ray-traversal-gpus)
+
 ## 2021-03-31 "Paper Reading: A Pixel is not a Little Square!"
 - Recording: Upcoming
 - Paper: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
