@@ -6,7 +6,38 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-03-24 "vk_mini_path_tracer extras: Chapter 7"
+## 2021-04-07 "Pyramidal Parametrics"
+- Recording: Upcoming
+- Paper link: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf
+
+### Links mentioned in the meeting
+- [Wikipedia: Z-order curve](https://en.wikipedia.org/wiki/Z-order_curve)
+- [Texture tiling and swizzling](https://fgiesen.wordpress.com/2011/01/17/texture-tiling-and-swizzling/)
+- [Add Heuristic for Detecting Custom Mipmaps ](https://dolphin-emu.org/blog/2017/11/03/dolphin-progress-report-october-2017/#50-5745-add-heuristic-for-detecting-custom-mipmaps-by-tomcc)
+- [Dolphin Custom Texture MipMaps](https://forums.dolphin-emu.org/Thread-dolphin-custom-texture-mipmaps)
+- [Literate programming](https://en.wikipedia.org/wiki/Literate_programming)
+- [Emacs Org Mode](https://orgmode.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Graphics Programming weekly - Issue 178 — April 11, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-178/)
+- [Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
+- [Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless/)
+- [Skyboxes in UE4](https://www.stevestreeting.com/2021/04/06/skyboxes-in-ue4/)
+- [Equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection)
+- [High-dynamic-range imaging](https://en.wikipedia.org/wiki/High-dynamic-range_imaging)
+- [Rendering large 3D tilemaps with a single draw call at 3000 FPS](https://blog.paavo.me/gpu-tilemap-rendering/)
+- [Wikipedia: Tegra](https://en.wikipedia.org/wiki/Tegra)
+- [Mipmapping Normal Maps](https://developer.download.nvidia.com/whitepapers/2006/Mipmapping_Normal_Maps.pdf)
+- [Roughness mip maps based on normal maps? – kosmonaut's blog](https://kosmonautblog.wordpress.com/2018/09/17/roughness-mip-maps-based-on-normal-maps/)
+- [LEAN Mapping](https://www.csee.umbc.edu/~olano/papers/lean/)
+- [Notes on the Ward BRDF](https://www.graphics.cornell.edu/~bjw/wardnotes.pdf)
+- [An Anisotropic Phong BRDF Model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf)
+- [Getting more physical in call of duty black ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf)
+- [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes](https://www.gdcvault.com/play/1018086/Photorealism-Through-the-Eyes-of)
+- [The Power of Hidden Friends in C++](https://www.justsoftwaresolutions.co.uk/cplusplus/hidden-friends.html)
+- [tl::expected](https://github.com/TartanLlama/expected)
+- [QuickVec C++](https://www.andrew.cmu.edu/user/mkellogg/15-418/final.html)
+
+## 2021-04-07 "vk_mini_path_tracer extras: Chapter 7"
 - Recording: Upcoming
 - vk_mini_path_tracer extra chapters: https://nvpro-samples.github.io/vk_mini_path_tracer/extras.html
 
