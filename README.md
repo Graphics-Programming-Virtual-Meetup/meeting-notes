@@ -6,7 +6,41 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-04-07 "Pyramidal Parametrics"
+## 2021-04-28 "A Trip Down The Graphics Pipeline: The Homogeneous Perspective Transform"
+- Recording: Upcoming
+- Paper link: https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf
+
+## 2021-04-21 "Exploration of Bindless Rendering in Vulkan, DirectX 12, and OpenGL"
+- Recording: Upcoming
+
+### Links mentioned in the meeting
+- [Physically Based Sky, Atmosphere and Cloud Rendering in Frostbite](https://media.contentapi.ea.com/content/dam/eacom/frostbite/files/s2016-pbs-frostbite-sky-clouds-new.pdf)
+- [ECS back and forth](https://skypjack.github.io/2019-02-14-ecs-baf-part-1/)
+- [Graphics Programming weekly - Issue 179 — April 18, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-179/)
+- [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf)
+- [[video] Newton's Cradle: Modeling & Animation](https://www.youtube.com/watch?v=nd7Auhb9YN8)
+- [[video] Painting a Selfie Girl, with Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
+- [[video] Live Coding "Greek Temple"](https://www.youtube.com/watch?v=-pdSjBPH3zM)
+- [[video] LIVE Coding and Painting with Maths](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
+- [smooth minimum - 2013](https://iquilezles.org/www/articles/smin/smin.htm)
+- [Shadertoy: Bandlimited Synthesis 1](https://www.shadertoy.com/view/WtScDt)
+- [Shadertoy: Pixel Art Filtering Comparison](https://www.shadertoy.com/view/ltBfRD)
+- [Distinctive Derivative Differences](https://bgolus.medium.com/distinctive-derivative-differences-cce38d36797b)
+- [Wikipedia: Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function)
+- [An Introduction to Vulkan Video](https://www.khronos.org/blog/an-introduction-to-vulkan-video)
+- [Pixel Art Filtering](https://jorenjoestar.github.io/post/pixel_art_filtering/)
+- [Appearance-Driven Automatic 3D Model Simplification](https://research.nvidia.com/publication/2021-04_Appearance-Driven-Automatic-3D)
+- [Dialogue on Behance](https://www.behance.net/gallery/115972193/Dialogue)
+- - [Cellular Automata and Lattice Boltzmann Techniques: An Approach to Model and Simulate Complex Systems](https://www.researchgate.net/publication/23551347_Cellular_Automata_and_Lattice_Boltzmann_Techniques_An_Approach_to_Model_and_Simulate_Complex_Systems)
+- [How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+- [Optimizing Triangles for a Full-screen Pass](https://wallisc.github.io/rendering/2021/04/18/Fullscreen-Pass.html)
+- [GCN Execution Patterns in Full Screen Passes](https://michaldrobot.com/2014/04/01/gcn-execution-patterns-in-full-screen-passes/)
+- [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
+- [3D Rasterization: A Bridge between Rasterization and Ray Casting](https://cg.ivd.kit.edu/publications/p2012/3dr/gi2012.pdf)
+- [Ambient occlusion for Minecraft-like worlds](https://0fps.net/2013/07/03/ambient-occlusion-for-minecraft-like-worlds/)
+- [soft shadows in raymarched SDFs - 2010](https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm)
+
+## 2021-04-14 "Pyramidal Parametrics"
 - Recording: Upcoming
 - Paper link: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf
 
