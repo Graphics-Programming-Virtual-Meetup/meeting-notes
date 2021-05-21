@@ -6,6 +6,27 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-05-20 "A Survey on Bounding Volume Hierarchies for Ray Tracing"
+- Recording: Upcoming
+- Paper link: https://meistdan.github.io/publications/bvh_star/paper.pdfhttps://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
+- Slides: https://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
+
+## Links mentioned in the meeting
+- [The stack monoid](https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html)
+- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
+- [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/)
+- [STBVH: A Spatial-Temporal BVH for Efficient Multi-Segment Motion Blur](https://www.embree.org/papers/2017-HPG-msmblur.pdf)
+- [Dithered Raymarching, Part 3: Fractals](https://jbaker.graphics/writings/sdf3.html)
+- [Box pruning revisited - Part 17 - PhysX](http://www.codercorner.com/blog/?p=1978)
+- [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
+- [Experiments in Hybrid Raytraced Shadows](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
+- [Shader translation benchmark on Dota2/Metal](https://gfx-rs.github.io/2021/05/09/dota2-msl-compilation.html)
+- [How ATI’s drivers ‘optimize’ Quake III](https://techreport.com/review/3089/how-atis-drivers-optimize-quake-iii/)
+- [Revisiting Physically Based Shading at Imageworks](https://blog.selfshadow.com/publications/s2017-shading-course/imageworks/s2017_pbs_imageworks_slides_v2.pdf)
+- [Minecraft NEW Ray Tracing RTX Mode Hands-On And Tested In Depth!](https://www.youtube.com/watch?v=opCDN2jkZaI&t=434s)
+- [Helmholtz_Reciprocity](https://en.wikipedia.org/wiki/Helmholtz_reciprocity)
+
 ## 2021-04-28 "A Trip Down The Graphics Pipeline: The Homogeneous Perspective Transform"
 - Recording: Upcoming
 - Paper link: https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf
