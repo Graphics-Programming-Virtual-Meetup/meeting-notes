@@ -15,7 +15,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [MagicaCSG reddit](https://www.reddit.com/r/MagicaCSG/)
 - [The Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
 - [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
-- [Distributing Monte Carlo Errors as a Blue Noise in Screen Space] (https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
+- [Distributing Monte Carlo Errors as a Blue Noise in Screen Space](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 - [Graphics Black Book](http://www.jagregory.com/abrash-black-book/)
 - [Graphics Black Book source](https://github.com/jagregory/abrash-black-book)
 - [Pico-8 virtul console](https://www.lexaloffle.com/pico-8.php)
@@ -23,7 +23,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Playdate has FPU but not NEON (simd)](https://twitter.com/mrgan/status/1150654245277818880)
 - [Alone in the Dark 1992](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
 - [Ecstatica (1994) MS-DOS PC Game Playthrough](https://www.youtube.com/watch?v=9SsR5fPjGu4)
-- [Comanche Voxel games]https://en.m.wikipedia.org/wiki/Comanche_(video_game_series))
+- [Comanche Voxel games](https://en.m.wikipedia.org/wiki/Comanche_(video_game_series))
 - [Outcast video game](https://en.m.wikipedia.org/wiki/Outcast_(video_game))
 - [Hexplore (1998) - PC Gameplay](https://youtu.be/mls7tEVCUBo)
 
@@ -33,7 +33,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 
 ### Links mentioned in the meeting
 - [BRDF](https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function)
-- [Filament PBR Renderer]((https://google.github.io/filament/Filament.html)
+- [Filament PBR Renderer](https://google.github.io/filament/Filament.html)
 - [Table of Index of Refraction in common materials](https://google.github.io/filament/Filament.html#table_commonmatreflectance)
 - [Code sample for Crash Course in BRDE](https://github.com/boksajak/brdf)
 - [Disney BRDF Explorer](https://github.com/wdas/brdf)
@@ -76,7 +76,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 - [Basis - DEFAME | 4k](https://www.youtube.com/watch?v=sBcwQCBpEiE)
 - [Eurorack modular synthesizer](https://en.wikipedia.org/wiki/Eurorack)
-- [Eurotrack Wikipedia](https://en.wikipedia.org/wiki/Eurorack
+- [Eurotrack Wikipedia](https://en.wikipedia.org/wiki/Eurorack)
 
 ## 2021-05-27 "Unreal Engine 5 Nanite Exploration"
 - No recording of session, instead recommend watching official Unreal presentation
