@@ -6,12 +6,95 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-06-23 "Lumen | Inside Unreal | Watch Party"
+- No Recording, instead recommend watching official Unreal presentation
+- Presentation [Lumen | Inside Unreal](https://www.youtube.com/watch?v=QdV_e-U7_pQ)
+
+### Links mentioned in the meeting
+- [Magica CSG](https://ephtracy.github.io/index.html?page=magicacsg)
+- [MagicaCSG reddit](https://www.reddit.com/r/MagicaCSG/)
+- [The Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
+- [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
+- [Distributing Monte Carlo Errors as a Blue Noise in Screen Space] (https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
+- [Graphics Black Book](http://www.jagregory.com/abrash-black-book/)
+- [Graphics Black Book source](https://github.com/jagregory/abrash-black-book)
+- [Pico-8 virtul console](https://www.lexaloffle.com/pico-8.php)
+- [Playdate console](https://twitter.com/playdate/status/1402872589932892160)
+- [Playdate has FPU but not NEON (simd)](https://twitter.com/mrgan/status/1150654245277818880)
+- [Alone in the Dark 1992](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
+- [Ecstatica (1994) MS-DOS PC Game Playthrough](https://www.youtube.com/watch?v=9SsR5fPjGu4)
+- [Comanche Voxel games]https://en.m.wikipedia.org/wiki/Comanche_(video_game_series))
+- [Outcast video game](https://en.m.wikipedia.org/wiki/Outcast_(video_game))
+- [Hexplore (1998) - PC Gameplay](https://youtu.be/mls7tEVCUBo)
+
+## 2021-06-16 "Crash Course in BRDF Implementation: Part 2"
+- Recording: Upcoming
+- Paper link: [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+
+### Links mentioned in the meeting
+- [BRDF](https://en.wikipedia.org/wiki/Bidirectional_scattering_distribution_function)
+- [Filament PBR Renderer]((https://google.github.io/filament/Filament.html)
+- [Table of Index of Refraction in common materials](https://google.github.io/filament/Filament.html#table_commonmatreflectance)
+- [Code sample for Crash Course in BRDE](https://github.com/boksajak/brdf)
+- [Disney BRDF Explorer](https://github.com/wdas/brdf)
+- [BRDF Visualizer](https://n8vm.github.io/BSDF-Visualizer/)
+- [PBR Diffuse Lighting for GGX + Smith Microsurfaces](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
+- [Comparison of Diffuse BRDF's in previous slide](https://1drv.ms/u/s!ApgfwuyhTQqSgr5_IXGwjUh8P7vbnw?e=Oa2JXZ)
+- [Introduction to Real Time Ray Tracing with Minecraft (Presented by Nvidia)](https://youtu.be/PyIgZTE66eM)
+- [Volrado 1.2](https://jbaker.graphics/writings/voraldo1_2.html)
+- [Coding Adventure: Clouds](https://www.youtube.com/watch?v=4QOcCGI6xOU)
+- [Real time Volumetrics in Horizon Zero Dawn](http://advances.realtimerendering.com/s2015/The%20Real-time%20Volumetric%20Cloudscapes%20of%20Horizon%20-%20Zero%20Dawn%20-%20ARTR.pdf)
+- [Real time Volumetrics in Horizon Zero Dawn - HD slide deck](http://advances.realtimerendering.com/s2015/Siggraph15_Schneider_Real-Time_Volumetric_Cloudscapes_of_Horizon_Zero_Dawn.pptx)
+- [FMX2017 Technical Directing Special: Real-time Volumetric Cloud Rendering](https://www.youtube.com/watch?v=8OrvIQUFptA)
+- [Enhancing Photorealism Enhancement with scenes from GTAV](https://youtu.be/P1IcaBn3ej0)
+- [High quality 3D Scans of sculptures - mesh only](https://threedscans.com/)
+- [List of test models](https://en.wikipedia.org/wiki/List_of_common_3D_test_models) 
+- [Causal Effects list of 3d models & scenes](https://casual-effects.com/data/)
+- [32 3d scenes](https://benedikt-bitterli.me/resources/)
+- [‘Earth to Ned’ uses real-time digital puppetry for final-pixel TV](https://www.youtube.com/watch?v=i3OCnB6oDX4)
+- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
+- [A deep dive into shooting ‘Speed’s’ miniature L.A. Metro scenes](https://beforesandafters.com/2019/06/11/a-deep-dive-into-shooting-speeds-miniature-l-a-metro-scenes/)
+- [Tiny Renderer Head Render 1](https://jbaker.graphics/writings/images/tinyrenderer/head1.gif)
+- [Tiny Renderer Head Render 2](https://jbaker.graphics/writings/images/tinyrenderer/head2.gif)
+- [Splatoon Rendering Rundown (translated)](https://www-nintendo-co-jp.translate.goog/jobs/keyword/51.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=ajax,nv)
+
+## 2021-06-09 "Crash Course in BRDF Implementation: Part 1"
+- Recording: Upcoming
+- Paper link: [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+
+### Links mentioned in the meeting
+- [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+- [Crash Course in BRDF Implementation - title page](https://boksajak.github.io/blog/BRDF)
+- [The Distance Estimator Compendium (DEC)](https://jbaker.graphics/writings/DEC.html)
+- [Orbit Traps in fractal distance estimators](https://jbaker.graphics/writings/orbit_trap.html)
+- [SIGGRAPH 2012 Course: Practical Physically Based Shading in Film and Game Production ](https://blog.selfshadow.com/publications/s2012-shading-course/)
+- [Unreal Lumen Technical Details](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Lumen/TechOverview/)
+- [Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
+- [Lecture 18: The Rendering Equation - slides](http://15462.courses.cs.cmu.edu/fall2019/lecture/renderingequation)
+- [Graphics Programming weekly list](https://www.jendrikillner.com/#posts)
+- [vk_toon_shader](https://github.com/nvpro-samples/vk_toon_shader)
+- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
+- [Basis - DEFAME | 4k](https://www.youtube.com/watch?v=sBcwQCBpEiE)
+- [Eurorack modular synthesizer](https://en.wikipedia.org/wiki/Eurorack)
+- [Eurotrack Wikipedia](https://en.wikipedia.org/wiki/Eurorack
+
+## 2021-05-27 "Unreal Engine 5 Nanite Exploration"
+- No recording of session, instead recommend watching official Unreal presentation
+- Presentation link: [Nanite | Inside Unreal](https://www.youtube.com/watch?v=TMorJX3Nj6U)
+
+### Links mentioned in the meeting
+- [Unreal Nanite Documentation](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Nanite/)
+- [A Macro view of Nanite](http://www.elopezr.com/a-macro-view-of-nanite/)
+- [GPU Driven Rendering Pipelines, Siggraph 2015](https://www.advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
+- [The Filtered and Culled Visibility Buffer](https://www.gdcvault.com/play/1023792/4K-Rendering-Breakthrough-The-Filtered)
+- [Efficient Shadows from Many Lights](https://efficientshading.com/wp-content/uploads/s2015_shadows.pdf)
+
 ## 2021-05-20 "A Survey on Bounding Volume Hierarchies for Ray Tracing"
 - Recording: Upcoming
 - Paper link: https://meistdan.github.io/publications/bvh_star/paper.pdfhttps://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
 - Slides: https://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
 
-## Links mentioned in the meeting
+### Links mentioned in the meeting
 - [The stack monoid](https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html)
 - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
