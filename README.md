@@ -145,7 +145,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [soft shadows in raymarched SDFs - 2010](https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm)
 
 ## 2021-04-14 "Pyramidal Parametrics"
-- Recording: Upcoming
+- Recording: https://youtu.be/8ocQuPseffU
 - Paper link: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf
 
 ### Links mentioned in the meeting
