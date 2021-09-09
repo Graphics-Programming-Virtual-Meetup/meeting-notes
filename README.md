@@ -176,7 +176,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [QuickVec C++](https://www.andrew.cmu.edu/user/mkellogg/15-418/final.html)
 
 ## 2021-04-07 "vk_mini_path_tracer extras: Chapter 7"
-- Recording: Upcoming
+- Recording: https://www.youtube.com/watch?v=U8ad1JS-Das
 - vk_mini_path_tracer extra chapters: https://nvpro-samples.github.io/vk_mini_path_tracer/extras.html
 
 ### Links mentioned in the meeting
