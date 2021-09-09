@@ -200,7 +200,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Understanding the Efficiency of Ray Traversal on GPUs](https://research.nvidia.com/publication/understanding-efficiency-ray-traversal-gpus)
 
 ## 2021-03-31 "Paper Reading: A Pixel is not a Little Square!"
-- Recording: Upcoming
+- Recording: https://www.youtube.com/watch?v=gpGc7N1vsQc
 - Paper: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
 - Some Twitter discussion: https://twitter.com/nbonneel/status/1376882763278782464
 
@@ -244,7 +244,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
 
 ## 2021-03-24 "vk_mini_path_tracer extras: Chapter 1-6"
-- Recording: Upcoming
+- Recording: https://www.youtube.com/watch?v=MSbVWFp-_cw
 
 ### Links mentioned in the meeting
 - [Box Muller Transform](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
@@ -268,7 +268,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
 
 ## 2021-03-17 "Raytracing in Call of Duty: Modern Warefare"
-- Recording: Upcoming
+- Recording: https://www.youtube.com/watch?v=La4dPvkWjAA
 - [Source Presentation slides](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) 
 
 ### Links mentioned in the meeting
@@ -305,7 +305,7 @@ This repository contains notes for meetings of the Graphics Programming Virtual 
 - [Naval Historian Channel](https://www.youtube.com/channel/UC4mftUX7apmV1vsVXZh7RTw) 
 
 ## 2021-03-10 "Voraldo: a voxel volume making program"
-- Recording: Upcoming
+- Recording: https://www.youtube.com/watch?v=qAKP3lyl_VM
 - [Voraldo v1.1: A GPU-Based Voxel Editor with Support for Volumetric Lighting Effects](https://jbaker.graphics/resources/voraldo_paper/Voraldo.pdf)
 
 ### Links mentioned in the meeting
