@@ -10,6 +10,21 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-09-01 "GPU based clay simulation and ray tracing tech in Claybook" Watch Party
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.youtube.com/watch?v=Xpf7Ua3UqOA
+- Slides: https://www.dropbox.com/s/s9tzmyj0wqkymmz/Claybook_Simulation_Raytracing_GDC18.pptx?dl=0
+
+### Links mentioned in the meeting
+- [GPU Driven Rendering](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
+- [Stylelized grass](https://danielilett.com/2021-08-24-tut5-17-stylised-grass/)
+- [GL Test Renderer](https://github.com/JuanDiegoMontoya/GLest-Rendererer)
+- [Classic Video game model viewer](https://noclip.website/)
+
+## 2021-08-25 "Classic Game Postmortem: 'Quake': The End of the Original Id" Watch Party
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.gdcvault.com/play/1027152/Classic-Game-Postmortem-Quake-The
+
 ## 2021-08-18 Particle System Overview
 - Recording: https://youtu.be/s8WJvMkNVgA
 - [A Fast and Simple Particle System, Part 1](https://juandiegomontoya.github.io/particles.html)
