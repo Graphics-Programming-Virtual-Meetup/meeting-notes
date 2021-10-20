@@ -10,6 +10,22 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-10-06: Vulkan Guide Chapter 2: The Graphics Pipeline + Hello Triangle
+- Recording: https://youtu.be/snoswlsbbi8
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
+- [QGIS -> blender tutorial](https://github.com/JoeWDavies/geoblender)
+- [FastNoise2](https://github.com/Auburn/FastNoise2)
+- [World Machine](https://www.world-machine.com/)
+- [JB's Erosion project](https://github.com/0xBAMA/Erosion2D)
+- [Jaker's Ludum Dare 49 entry]( https://ldjam.com/events/ludum-dare/49/top-texplosion)
+- [Free course on Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)
+- [Discrete Differential Geometry Youtube course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+- [Computer  Graphics Youtube course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+- [S3 Texture Compression wiki page](https://en.wikipedia.org/wiki/S3_Texture_Compression)
+- [Understanding bcn texture compression formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/) 
+
 ## 2021-09-29: Vulkan Guide Chapter 1 Part 2
 - Recording: https://youtu.be/cGwgO_mZxqQ
 - Vulkan Guide: https://vkguide.dev/
