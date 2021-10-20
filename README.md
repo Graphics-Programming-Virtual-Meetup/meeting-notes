@@ -10,6 +10,16 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-09-15: Vulkan Guide Chapter 0
+- Recording: https://youtu.be/eeBxvyBQhrU
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
+- [This weeks graphics programming weekly newsletter](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-200/)
+- [JPEG post-processing effect for #Unity3D](https://twitter.com/ompuco/status/1437555270041829377)
+- [Nvidia's article on Variable Rate Shading](https://developer.nvidia.com/vrworks/graphics/variablerateshading)
+- [Compile time 'game' in C++17](https://jguegant.github.io/blogs/tech/meta-crush-saga.html)
+
 ## 2021-09-08: Bitmapped font glyphs
 - Recording: https://www.youtube.com/watch?v=TpRybCx0LXs
 - [Bitfont Glyph Parsing + Use in Voraldo](https://jbaker.graphics/writings/bitfont.html)
