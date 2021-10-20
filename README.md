@@ -10,6 +10,25 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-07-14 "From the developer of Dreams "Learning From Failure" Watch Party"
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.youtube.com/watch?v=u9KNtnCZDMI
+- Slides available here: http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015.pdf
+
+### Links mentioned in the meeting
+- [JB's GPU SDF Pathtracing writeup](https://jbaker.graphics/writings/sdf_path.html)
+- [Volumetric Billboards](http://phildec.users.sourceforge.net/Research/VolumetricBillboards.php)
+- [Learning from failure: A Survey of Promising, Unconventional and Mostly Abandoned Renderers for ‘Dreams PS4’, a Geometrically Dense, Painterly UGC Game](http://media.lolrus.mediamolecule.com/AlexEvans_SIGGRAPH-2015.pdf)
+- [Alex at SIGGRAPH 2015: "Learning from Failure"](https://www.mediamolecule.com/blog/article/siggraph_2015)
+- [Novel Algorithm for Sparse and Parallel Fast Sweeping: Efficient Computation of Sparse Signed Distance Fields](https://www.museth.org/Ken/Publications_files/Museth_SIG17.pdf)
+- [dual contouring vs marching cube](https://www.boristhebrave.com/content/2018/04/dc_tee_comparison.svg)
+- [Adobe medium](https://www.adobe.com/ca/products/medium.html)
+- [Owen's rasterizer.cpp](https://github.com/CampbellOwen/OneBitRender/blob/master/src/rasterizer.cpp)
+
+## 2021-07-07 "Crash Course in BRDF Implementation: Part 3"
+- No Recording
+- Paper link: [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
+
 ## 2021-06-23 "Lumen | Inside Unreal | Watch Party"
 - No Recording, instead recommend watching official Unreal presentation
 - Presentation [Lumen | Inside Unreal](https://www.youtube.com/watch?v=QdV_e-U7_pQ)
