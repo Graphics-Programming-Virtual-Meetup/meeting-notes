@@ -1,6 +1,10 @@
 # Graphics Programming Virtual Meetup Meeting Notes
 This repository contains notes for meetings of the Graphics Programming Virtual Meetup.
 
+Note, sometimes this documentation can become out-of-date.
+To check the latest information for our meetings,
+visit our [discord server](https://discord.gg/TsTDb4uYfR).
+
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
