@@ -10,6 +10,20 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-09-08: Bitmapped font glyphs
+- Recording: https://www.youtube.com/watch?v=TpRybCx0LXs
+- [Bitfont Glyph Parsing + Use in Voraldo](https://jbaker.graphics/writings/bitfont.html)
+- [Slides](https://docs.google.com/presentation/d/11iZ6dhhIXfqQGArIgbClyL74QiAzSWGF9fYL8lsHHVg/edit?usp=sharing)
+
+### Links mentioned in the meeting
+- [Automated testing of a ray tracer](https://16bpp.net/blog/post/automated-testing-of-a-ray-tracer/)
+- [Octohedral Imposters](https://shaderbits.com/blog/octahedral-impostors)
+- [Real-time Realistic Rendering and Lighting of Forests](https://hal.inria.fr/hal-00650120/file/article.pdf)
+- [Video demonstration of Real-time Realistic Rendering and Lighting of Forests] (https://hal.inria.fr/hal-00650120/file/article.pdf)
+- [3d graphics rendering cookbook](https://www.packtpub.com/product/3d-graphics-rendering-cookbook/9781838986193)
+- [Global Illumination based on Surfels](https://www.youtube.com/watch?v=h1ocYFrtsM4)
+- [Dynamic Ambient Occlusion and Indirect Lighting](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-14-dynamic-ambient-occlusion-and)
+
 ## 2021-09-01 "GPU based clay simulation and ray tracing tech in Claybook" Watch Party
 - No Recording, instead recommend watching the linked video
 - Link to the video: https://www.youtube.com/watch?v=Xpf7Ua3UqOA
