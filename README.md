@@ -10,6 +10,20 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-08-18 Particle System Overview
+- Recording: https://youtu.be/s8WJvMkNVgA
+- [A Fast and Simple Particle System, Part 1](https://juandiegomontoya.github.io/particles.html)
+- [A Fast and Simple Particle System, Part 2](https://juandiegomontoya.github.io/particles_ii.html)
+
+## 2021-08-11 Hash Functions for GPU Rendering
+- No Recording
+- Paper Link: http://www.jcgt.org/published/0009/03/02/paper.pdf
+
+## 2021-08-04 "Minimum Path Tracer"
+- No Recording
+- Presenter: https://jbaker.graphics/
+- Path Tracer Repository: https://github.com/0xBAMA/AirplaneMode
+
 ## 2021-07-28 "A Parallel Algorithm for Polygon Rasterization"
 - No Recording
 - Paper link: https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf
