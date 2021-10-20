@@ -10,6 +10,19 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-09-29: Vulkan Guide Chapter 1 Part 2
+- Recording: https://youtu.be/cGwgO_mZxqQ
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
+- [Creative Use of GPU Fixed-Function Hardware](https://asawicki.info/news_1745_creative_use_of_gpu_fixed-function_hardware)
+- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- [Lesley's Shader Complication CMake Code](https://github.com/LesleyLai/unnamed-voxel-game/blob/main/cmake/CompileShader.cmake)
+- [Example Usage of said code](https://github.com/LesleyLai/unnamed-voxel-game/blob/main/src/CMakeLists.txt#L3-L27)
+- [Ludum Dare 49](https://ldjam.com/events/ludum-dare/49)
+- [Appearance Driven Automatic 3D - Fancy Mesh Decimation using Differentiable Rendering](https://research.nvidia.com/publication/2021-04_Appearance-Driven-Automatic-3D)
+- [Differentiable Rendering Survey from 2006](https://arxiv.org/abs/2006.12057)
+
 ## 2021-09-22: Vulkan Guide Chapter 1 Part 1
 - Recording: https://youtu.be/RLLoJ4DdiF0
 - Vulkan Guide: https://vkguide.dev/
