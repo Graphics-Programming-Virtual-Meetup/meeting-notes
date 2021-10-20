@@ -19,7 +19,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Automated testing of a ray tracer](https://16bpp.net/blog/post/automated-testing-of-a-ray-tracer/)
 - [Octohedral Imposters](https://shaderbits.com/blog/octahedral-impostors)
 - [Real-time Realistic Rendering and Lighting of Forests](https://hal.inria.fr/hal-00650120/file/article.pdf)
-- [Video demonstration of Real-time Realistic Rendering and Lighting of Forests] (https://hal.inria.fr/hal-00650120/file/article.pdf)
+- [Video demonstration of Real-time Realistic Rendering and Lighting of Forests](https://hal.inria.fr/hal-00650120/file/article.pdf)
 - [3d graphics rendering cookbook](https://www.packtpub.com/product/3d-graphics-rendering-cookbook/9781838986193)
 - [Global Illumination based on Surfels](https://www.youtube.com/watch?v=h1ocYFrtsM4)
 - [Dynamic Ambient Occlusion and Indirect Lighting](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-14-dynamic-ambient-occlusion-and)
