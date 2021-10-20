@@ -10,6 +10,27 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-09-22: Vulkan Guide Chapter 1 Part 1
+- Recording: https://youtu.be/RLLoJ4DdiF0
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
+- [Command Buffer LIfecycle reference](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/chap6.html#commandbuffers-lifecycle)
+- [VkQueueFamilyProperties](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VkQueueFamilyProperties.html)
+- [More info about Vulkan Extensions](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/chap40.html#extendingvulkan-extensions)
+- [AMD Adds their own best practices to the Best Practices layer](https://gpuopen.com/learn/vulkan-best-practice-layer/)
+- [Nanite in detail](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)
+- [Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
+- [Wavefront formulation raytracing](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
+- [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
+- [Vulkan Subgroup tutorial. AKA wavefronts](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
+- [Free large graphics scene samples](https://developer.nvidia.com/orca)
+- [shadertoy smoothstep demo](https://www.shadertoy.com/view/sdyGRW)
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [UE4 Custom Lens Flare](https://www.froyok.fr/blog/2021-09-ue4-custom-lens-flare/)
+- [Twitter thread of the author of UE4 Custom Lens Flare](https://twitter.com/Froyok/status/1337171200066392065)
+- [Twitter of Stephan Mangiat, Visual Music Artist](https://twitter.com/smangiat)
+
 ## 2021-09-15: Vulkan Guide Chapter 0
 - Recording: https://youtu.be/eeBxvyBQhrU
 - Vulkan Guide: https://vkguide.dev/
