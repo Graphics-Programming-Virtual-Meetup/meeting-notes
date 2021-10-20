@@ -32,7 +32,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Hexplore (1998) - PC Gameplay](https://youtu.be/mls7tEVCUBo)
 
 ## 2021-06-16 "Crash Course in BRDF Implementation: Part 2"
-- Recording: Upcoming
+- No Recording
 - Paper link: [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
 ### Links mentioned in the meeting
@@ -63,7 +63,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Splatoon Rendering Rundown (translated)](https://www-nintendo-co-jp.translate.goog/jobs/keyword/51.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=ajax,nv)
 
 ## 2021-06-09 "Crash Course in BRDF Implementation: Part 1"
-- Recording: Upcoming
+- No Recording
 - Paper link: [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 
 ### Links mentioned in the meeting
@@ -94,7 +94,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Efficient Shadows from Many Lights](https://efficientshading.com/wp-content/uploads/s2015_shadows.pdf)
 
 ## 2021-05-20 "A Survey on Bounding Volume Hierarchies for Ray Tracing"
-- Recording: Upcoming
+- Recording: https://youtu.be/el3-7PwnILA
 - Paper link: https://meistdan.github.io/publications/bvh_star/paper.pdfhttps://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
 - Slides: https://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
 
@@ -115,7 +115,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Helmholtz_Reciprocity](https://en.wikipedia.org/wiki/Helmholtz_reciprocity)
 
 ## 2021-04-28 "A Trip Down The Graphics Pipeline: The Homogeneous Perspective Transform"
-- Recording: Upcoming
+- Recording: https://youtu.be/VlvVf5xCtcw
 - Paper link: https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf
 
 ## 2021-04-21 "Exploration of Bindless Rendering in Vulkan, DirectX 12, and OpenGL"
