@@ -10,6 +10,10 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-10-13: Vulkan Guide Chapter 3 (part 1): Vertex Buffers & Push Constants
+- Recording: https://youtu.be/SOJrW4oR3ME
+- Vulkan Guide: https://vkguide.dev/
+
 ## 2021-10-06: Vulkan Guide Chapter 2: The Graphics Pipeline + Hello Triangle
 - Recording: https://youtu.be/snoswlsbbi8
 - Vulkan Guide: https://vkguide.dev/
