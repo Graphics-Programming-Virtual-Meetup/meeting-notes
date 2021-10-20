@@ -10,6 +10,21 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-07-28 "A Parallel Algorithm for Polygon Rasterization"
+- No Recording
+- Paper link: https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf
+
+### Links mentioned in the meeting
+- [Scratchapixel: Rasterization Stage](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage)
+- [3D Rasterization: A Bridge between Rasterization and Ray Casting](https://cg.ivd.kit.edu/publications/p2012/3dr/gi2012.pdf)
+- [The repository for Gabe's rasterizer](https://github.com/Diamond-D0gs/Rasterizer-V3)
+- [Visibility Buffer Rendering with Material Graphs](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
+- [Optimizing the basic rasterizer](https://fgiesen.wordpress.com/2013/02/10/optimizing-the-basic-rasterizer/)
+- [An introduction to shader derivative functions](http://www.aclockworkberry.com/shader-derivative-functions/)
+- [My toy renderer, part 4: Ray tracing](https://momentsingraphics.de/ToyRenderer4RayTracing.html)
+- [DirectXMath](https://github.com/microsoft/DirectXMath/)
+- [Build an 8-bit computer from scratch](https://eater.net/8bit/)
+
 ## 2021-07-14 "From the developer of Dreams "Learning From Failure" Watch Party"
 - No Recording, instead recommend watching the linked video
 - Link to the video: https://www.youtube.com/watch?v=u9KNtnCZDMI
