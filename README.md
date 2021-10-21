@@ -14,6 +14,18 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Recording: https://youtu.be/SOJrW4oR3ME
 - Vulkan Guide: https://vkguide.dev/
 
+### Links mentioned in the meeting
+- [vertex format - compression](https://www.yosoygames.com.ar/wp/2018/03/vertex-formats-part-1-compression/)
+- [vertex format - fetchvspull](https://www.yosoygames.com.ar/wp/2018/03/vertex-formats-part-2-fetch-vs-pull/)
+- [The minimum number of triangles per draw call](https://www.g-truc.net/post-0666.html)
+- [PatrickPurcell's Vulkan Wrapper/Helper](https://github.com/dynamic-static/dynamic_static.vulkan)
+- [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
+- [Fluid Simulation Implemented in Compute shaders in Unity 3D](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-)
+- [FluidSim in a tweet](https://mobile.twitter.com/flockaroo/status/1445084638800760836
+- [twigl](https://github.com/doxas/twigl)
+- [Perlin Noise in japanese](http://marupeke296.com/ALG_No3_PerlinNoize.html)
+- [[video] Compute Shader Gravity Demo](https://www.youtube.com/watch?v=Hz42sDJE2e4&feature=youtu.be)
+
 ## 2021-10-06: Vulkan Guide Chapter 2: The Graphics Pipeline + Hello Triangle
 - Recording: https://youtu.be/snoswlsbbi8
 - Vulkan Guide: https://vkguide.dev/
