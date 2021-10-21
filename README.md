@@ -10,7 +10,33 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-10-13: Vulkan Guide Chapter 3 (part 1): Vertex Buffers & Push Constants
+## 2021-10-21 Vulkan Guide Chapter 3 (part 2): Obj loading & Depth buffer
+- Recording: Upcoming
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
+- [Vkguide all-chapters branch](https://github.com/vblanco20-1/vulkan-guide/tree/all-chapters)
+- [Fixing Time.deltaTime in Unity 2020.2 for smoother gameplay: What did it take?](https://blog.unity.com/technology/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take)
+- [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+- [Outerra](https://outerra.com/)
+- [Outerra: Maximizing Depth Buffer Range and Precision](https://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html)
+- [glClipControl - OpenGL Reference](https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/glClipControl.xhtml)
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
+- [Slang shading language](https://github.com/shader-slang/slang)
+- [Marat Isaw's Voxel Space SDL2 prototype - custom map](https://youtu.be/x8sdbgsqRKA)
+- [Volumetric Clouds Resources List](https://gist.github.com/pixelsnafu/e3904c49cbd8ff52cb53d95ceda3980e)
+- [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
+- [RETRO VOXEL ENGINE! // Code Review](https://youtu.be/7A3YmJH4iyk)
+- [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
+- [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
+- [Frame Analysis - Control](https://alain.xyz/blog/frame-analysis-control)
+- [Twitter: @Njetchev](https://mobile.twitter.com/NJetchev)
+- [AMD FidelityFX Super Resolution: the Digital Foundry interview](https://www.eurogamer.net/articles/digitalfoundry-2021-amd-fsr-interview)
+- [Windows - Swift Forum](https://forums.swift.org/c/development/windows/67)
+- [CppCast: STLab](https://cppcast.com/adobe-software-tech-lab/)
+
+## 2021-10-13 Vulkan Guide Chapter 3 (part 1): Vertex Buffers & Push Constants
 - Recording: https://youtu.be/SOJrW4oR3ME
 - Vulkan Guide: https://vkguide.dev/
 
