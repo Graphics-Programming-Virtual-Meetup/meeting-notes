@@ -7,7 +7,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
-- Follow use on Twitter: https://twitter.com/GraphicMeetup
+- Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## 2021-10-21 Vulkan Guide Chapter 3 (part 2): Obj loading & Depth buffer
@@ -274,7 +274,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 
 ## 2021-05-20 "A Survey on Bounding Volume Hierarchies for Ray Tracing"
 - Recording: https://youtu.be/el3-7PwnILA
-- Paper link: https://meistdan.github.io/publications/bvh_star/paper.pdfhttps://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
+- Paper link: https://meistdan.github.io/publications/bvh_star/paper.pdf
 - Slides: https://slides.com/lesleylai-1/graphics-programming-virtual-meetup-standard-08f9e6?token=aoZVV727
 
 ### Links mentioned in the meeting
