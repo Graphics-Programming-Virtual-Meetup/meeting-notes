@@ -47,7 +47,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [PatrickPurcell's Vulkan Wrapper/Helper](https://github.com/dynamic-static/dynamic_static.vulkan)
 - [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 - [Fluid Simulation Implemented in Compute shaders in Unity 3D](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-)
-- [FluidSim in a tweet](https://mobile.twitter.com/flockaroo/status/1445084638800760836
+- [FluidSim in a tweet](https://mobile.twitter.com/flockaroo/status/1445084638800760836)
 - [twigl](https://github.com/doxas/twigl)
 - [Perlin Noise in japanese](http://marupeke296.com/ALG_No3_PerlinNoize.html)
 - [[video] Compute Shader Gravity Demo](https://www.youtube.com/watch?v=Hz42sDJE2e4&feature=youtu.be)
