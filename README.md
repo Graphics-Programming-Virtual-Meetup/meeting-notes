@@ -10,7 +10,21 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-10-21 Vulkan Guide Chapter 3 (part 2): Obj loading & Depth buffer
+## 2021-10-27
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.youtube.com/watch?v=Ur53sJdS8rQ
+
+### Links mentioned in the meeting
+- [Taskflow - A General-purpose Parallel and Heterogeneous Task Programming System](https://github.com/taskflow/taskflow)
+- [Real-Time Samurai Cinema: Lighting, Atmosphere, and Tonemapping in Ghost of Tsushima](http://advances.realtimerendering.com/s2021/jpatry_advances2021/index.html)
+- [Handmade Hero Day 565 - Reconstructing Multiple Lights](https://guide.handmadehero.org/code/day565/)
+- [Spherical Harmonics for Beginners](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
+- [[video] jb's voxelspace renderer explanation](https://www.youtube.com/watch?v=4ecc6Wj9Voc)
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+- [Datasets available through the Planetary Computer API](https://planetarycomputer.microsoft.com/catalog?tags=Elevation)
+- [jb's not-quite-an-engine project](https://github.com/0xBAMA/not-quite-an-engine)
+
+## 2021-10-20 Vulkan Guide Chapter 3 (part 2): Obj loading & Depth buffer
 - Recording: https://youtu.be/s04F2qXpbRk
 - Vulkan Guide: https://vkguide.dev/
 
