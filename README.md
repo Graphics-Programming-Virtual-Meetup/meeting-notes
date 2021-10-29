@@ -11,7 +11,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## 2021-10-21 Vulkan Guide Chapter 3 (part 2): Obj loading & Depth buffer
-- Recording: Upcoming
+- Recording: https://youtu.be/s04F2qXpbRk
 - Vulkan Guide: https://vkguide.dev/
 
 ### Links mentioned in the meeting
