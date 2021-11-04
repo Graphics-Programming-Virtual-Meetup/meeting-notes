@@ -36,7 +36,7 @@ https://twitter.com/AndrewM_Webb/status/1404043485179744256
 - [Devil's_stovepipe](https://en.wikipedia.org/wiki/Devil%27s_stovepipe)
 - [Learning G-Code for a 3-axis CNC Router](https://jbaker.graphics/writings/cnc.html)
 - [Voxels Command and Conquer Tiberian Sun](http://philiponguoitgamedev.blogspot.com/2012/10/voxels-command-and-conquer-tiberian-sun.html)
-- [Youtube: ](https://www.youtube.com/watch?v=mls7tEVCUBo)
+- [Youtube: Hexplore (1998) - PC Gameplay / Win 10](https://www.youtube.com/watch?v=mls7tEVCUBo)
 - [Sega Saturn Architecture](https://www.copetti.org/writings/consoles/sega-saturn/)
 - [Ycombinator comment on rendering technique that bladerunner uses](https://news.ycombinator.com/item?id=17171287)
 - [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
