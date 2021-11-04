@@ -10,7 +10,38 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-10-27
+## 2021-11-03 "Global Illumination Based on Surfels" Watch Party
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.youtube.com/watch?v=Uea9Wq1XdA4
+
+### Links mentioend in the meeting
+- [GPU Gem2: Chapter 14. Dynamic Ambient Occlusion and Indirect Lighting](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-14-dynamic-ambient-occlusion-and)
+- [A Survey of Efficient Representations for Independent Unit Vectors](https://jcgt.org/published/0003/02/01/paper.pdf)
+- [Mahalanobis distance](https://en.wikipedia.org/wiki/Mahalanobis_distance)
+- [Multiscale Mean Estimator Data Page 26](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/2019-ray-tracing-gems-chapter-25-barre-brisebois-et-al.pdf)
+- [Twitter account of Natalya](https://twitter.com/mirror2mask)
+- [Real-Time Global Illumination using Precomputed Light Field Probes](https://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf)
+https://twitter.com/AndrewM_Webb/status/1404043485179744256
+- [PBRT v3 - Importance Sampling](https://pbr-book.org/3ed-2018/Monte_Carlo_Integration/Importance_Sampling)
+- [Introduction to Real Time Ray Tracing with Minecraft (Presented by Nvidia)](https://www.youtube.com/watch?v=PyIgZTE66eM&t=692s)
+- [Begin 0xBAMA 958](https://www.shadertoy.com/view/fltGWr) - from jb's ShaderToy
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+- [Youtube: voxelspace renderer explanation](https://www.youtube.com/watch?v=nlVtF3K9gfw) - by jb
+- [Youtube: watching paint dry - hydraulic erosion sim](https://www.youtube.com/watch?v=LbYh9HJbtwE) - by jb
+- [Simple Particle-Based Hydraulic Erosion](https://nickmcd.me/2020/04/10/simple-particle-based-hydraulic-erosion/)
+- [Physarum Simulation](https://jbaker.graphics/writings/physarum.html) - from jb's website
+- [physarum - Sage Jenson](https://sagejenson.com/physarum)
+- [Simple Particle-Based Wind Erosion](https://nickmcd.me/2020/11/23/particle-based-wind-erosion/)
+- [The Mystery of Why This Dangerous Sand Dune Swallowed a Boy](https://www.smithsonianmag.com/science-nature/mystery-why-dangerous-sand-dune-swallowed-boy-180953404/)
+- [Devil's_stovepipe](https://en.wikipedia.org/wiki/Devil%27s_stovepipe)
+- [Learning G-Code for a 3-axis CNC Router](https://jbaker.graphics/writings/cnc.html)
+- [Voxels Command and Conquer Tiberian Sun](http://philiponguoitgamedev.blogspot.com/2012/10/voxels-command-and-conquer-tiberian-sun.html)
+- [Youtube: ](https://www.youtube.com/watch?v=mls7tEVCUBo)
+- [Sega Saturn Architecture](https://www.copetti.org/writings/consoles/sega-saturn/)
+- [Ycombinator comment on rendering technique that bladerunner uses](https://news.ycombinator.com/item?id=17171287)
+- [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
+
+## 2021-10-27 "Zen of Streaming: Building and Loading 'Ghost of Tsushima'" Watch party
 - No Recording, instead recommend watching the linked video
 - Link to the video: https://www.youtube.com/watch?v=Ur53sJdS8rQ
 
