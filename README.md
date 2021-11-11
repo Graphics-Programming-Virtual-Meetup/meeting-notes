@@ -10,7 +10,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-11-11  Vulkan Guide Chapter 4: Shader input/output
+## 2021-11-10  Vulkan Guide Chapter 4: Shader input/output
 - Recording: TBA
 - Vulkan Guide: https://vkguide.dev/
 
