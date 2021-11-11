@@ -10,6 +10,34 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-11-11  Vulkan Guide Chapter 4: Shader input/output
+- Recording: TBA
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioend in the meeting
+- [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
+- [pipeline_stall.png](https://juandiegomontoya.github.io/assets/pipeline_stall.png)
+- [Vulkan Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
+- [My personal hell of translating DXIL to SPIR-V – part 3](https://themaister.net/blog/2021/11/07/my-personal-hell-of-translating-dxil-to-spir-v-part-3/)
+- [vulkan-diagrams](https://github.com/David-DiGioia/vulkan-diagrams)
+- [vulkan-diagrams/descriptor_sets.png](https://raw.githubusercontent.com/David-DiGioia/vulkan-diagrams/main/descriptor_sets.png)
+- [Learning DirectX 12 – Lesson 2 – Rendering](https://www.3dgep.com/learning-directx-12-2/)
+- [V-EZ](https://gitlab.com/PRIME-tech-OSS/V-EZ)
+- [NVRHI (NVIDIA Rendering Hardware Interface) ](https://developer.nvidia.com/blog/writing-portable-rendering-code-with-nvrhi/)
+- [WebGPU W3C Working Draft](https://www.w3.org/TR/webgpu/)
+- [neural network racecars](https://www.youtube.com/watch?v=FPSNTUCweuU)
+- [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+- jb's [aiExperiments](https://github.com/0xBAMA/aiExperiments)
+- [Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/system/files/sec20fall_quiring_prepub.pdf)
+- [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+- [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
+- [Graphics Programming weekly - Issue 208 - November 7, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-208/)
+- [How Computers Draw Weird Shapes](https://www.youtube.com/watch?v=6oMZb3yP_H8)
+- [Intro to Graphics 20 - Shadows & Reflections](https://www.youtube.com/watch?v=l_iVdRbA_4s&list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
+- [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+- [Brain Implant Translates Paralyzed Man's Thoughts Into Text With 94% Accuracy](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)
+- [From data to bot in minutes](https://www.qnamaker.ai/)
+
 ## 2021-11-03 "Global Illumination Based on Surfels" Watch Party
 - No Recording, instead recommend watching the linked video
 - Link to the video: https://www.youtube.com/watch?v=Uea9Wq1XdA4
