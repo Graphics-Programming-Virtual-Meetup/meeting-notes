@@ -10,11 +10,38 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-11-10  Vulkan Guide Chapter 4: Shader input/output
+## 2021-11-10  Vulkan Guide Chapter 5: Image
 - Recording: TBA
 - Vulkan Guide: https://vkguide.dev/
 
-### Links mentioend in the meeting
+### Links mentioned in the meeting
+- [Vulkan Guide repository all-chapters branch](https://github.com/vblanco20-1/vulkan-guide/tree/all-chapters/)
+- [Vulkan Tutorial: Image View and Sampler](https://vulkan-tutorial.com/Texture_mapping/Image_view_and_sampler)
+- [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
+- [bitmap font renderer](https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html)
+- [Improved Alpha-Tested Magnification for Vector Textures and Special Effects](https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
+- [Refterm Lecture Part 1 - Philosophies of Optimization](https://www.youtube.com/watch?v=pgoetgxecw8)
+- [Rendering text - babylon.js](https://babylonjs.medium.com/rendering-text-bf3bc53f7c2e)
+- [Learn the Vulkan API with C++ - Udemy](https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/)
+- [Strange Attractors on the GPU, Part 1: Implementation](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1?collection=@rreusser/writeups)
+- [Strange Attractors on the GPU, Part 2: Fun!](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-2?collection=@rreusser/writeups)
+- [Learn wgpu](https://sotrh.github.io/learn-wgpu/)
+- [Differential growth - Morphogenesis Resources](https://github.com/jasonwebb/morphogenesis-resources#differential-growth)
+- [Dawn, a WebGPU implementation](https://dawn.googlesource.com/dawn)
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+- [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native)
+- [WebGPU Shading Language](https://www.w3.org/TR/WGSL/)
+- [twitter.com/OskSta](https://twitter.com/OskSta)
+- [0xBAMA/WFC](https://github.com/0xBAMA/WFC)
+- [Algorithmic Redistricting: Elections made-to-order](https://www.youtube.com/watch?v=Lq-Y7crQo44)
+- [Air-tight vs. Vacuum-tight](https://www.youtube.com/watch?v=VD69crOFx10)
+- [Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes)
+
+## 2021-11-10  Vulkan Guide Chapter 4: Shader input/output
+- Recording: https://www.youtube.com/watch?v=m75oIukQoOw
+- Vulkan Guide: https://vkguide.dev/
+
+### Links mentioned in the meeting
 - [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
 - [pipeline_stall.png](https://juandiegomontoya.github.io/assets/pipeline_stall.png)
 - [Vulkan Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
