@@ -10,8 +10,29 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-11-10  Vulkan Guide Chapter 5: Image
+## 2021-11-24 Voxelspace Algorithm in a Compute Shader
 - Recording: TBA
+- Slides: https://docs.google.com/presentation/d/14HS2RORDBGF0zjuF3PIN0xn-PYYBT9VDaU_p3y-d-Y4/edit?usp=sharing
+
+### Links mentioned in the meeting
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+- [Wikipedia: VistaPro](https://en.wikipedia.org/wiki/VistaPro)
+- [Wikipedia: Terragen](https://en.wikipedia.org/wiki/Terragen)
+- [More Tricks of the Game-Programming Gurus/Book and Cd-Rom](https://www.amazon.com/exec/obidos/ASIN/0672306972/acmorg-20)
+- [vk_mini_path_tracer](https://nvpro-samples.github.io/vk_mini_path_tracer/)
+- [Vulkan Pills 1: Bindless Textures](https://jorenjoestar.github.io/post/vulkan_bindless_texture/)
+- [Advanced Shading Techniques with Pixel Local Storage](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/advanced-shading-techniques-with-pixel-local-storage)
+- [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php)
+- [Wikipedia: Alpha compositing](https://en.wikipedia.org/wiki/Alpha_compositing)
+- [Compositing Digital Images](https://graphics.pixar.com/library/Compositing/paper.pdf)
+- [Pollinations](https://old.pollinations.ai/)
+- [Big Sleep](https://colab.research.google.com/drive/1MEWKbm-driRNF8PrU7ogS5o3se-ePyPb?usp=sharing#scrollTo=NfJ0RMCAauV3)
+- [Software Automatic Mouth - Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
+- [Wikipedia: Dr. Sbaitso](https://en.wikipedia.org/wiki/Dr._Sbaitso)
+- [X-ray timelapse of fluid movement in plants, stop-motion animation, sensor teardown/repair](https://www.youtube.com/watch?v=j-FHbHoiwNk)
+
+## 2021-11-17 Vulkan Guide Chapter 5: Image
+- Recording: https://www.youtube.com/watch?v=Hrvk6RJMI2A
 - Vulkan Guide: https://vkguide.dev/
 
 ### Links mentioned in the meeting
@@ -37,7 +58,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [Air-tight vs. Vacuum-tight](https://www.youtube.com/watch?v=VD69crOFx10)
 - [Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes)
 
-## 2021-11-10  Vulkan Guide Chapter 4: Shader input/output
+## 2021-11-10 Vulkan Guide Chapter 4: Shader input/output
 - Recording: https://www.youtube.com/watch?v=m75oIukQoOw
 - Vulkan Guide: https://vkguide.dev/
 
