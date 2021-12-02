@@ -10,8 +10,34 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## 2021-11-24 Voxelspace Algorithm in a Compute Shader
+## 2021-12-1 The Rendering Equation
 - Recording: TBA
+- Paper: https://www.meetup.com/Graphics-Programming-Virtual-Meetup/events/282301946/
+- Slides: https://slides.com/lesleylai-1/rendering-equation?token=c_3McqlO
+
+### Links mentioned in the meeting
+- [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
+- [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
+- [Graphics Programming weekly - Issue 211 - November 28, 2021](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-211/)
+- [A quick breakdown of lighting in the `restir-meets-surfe` branch](https://gist.github.com/h3r2tic/ba39300c2b2ca4d9ca5f6ff22350a037)
+- [Tessellation-Free Displacement Mapping for Ray Tracing](https://perso.telecom-paristech.fr/boubek/papers/TFDM/)
+- [Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- [Denoising Sprite Fright](https://studio.blender.org/blog/denoising-sprite-fright/)
+- [Intel® Open Image Denoise](https://www.openimagedenoise.org/)
+- [Structured Volume Sampling Tweet](https://twitter.com/hdb1/status/1365637778772553730)
+- [Structured Volume Sampling Repository](https://github.com/huwb/volsample)
+- [Structured Sampling Diagram](https://www.shadertoy.com/view/ll3GWs)
+- [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
+- [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/)
+- [Forum thread about dithering](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+- [jb's dither shader](https://github.com/0xBAMA/SDFs/blob/master/resources/engine_code/shaders/dither.cs.glsl#L1111)
+- [Shadowtoy: Blue Noise Dither](https://www.shadertoy.com/view/4sKBWR)
+- [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
+- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+- [Advent of Code 2021](https://adventofcode.com/2021)
+
+## 2021-11-24 Voxelspace Algorithm in a Compute Shader
+- Recording: https://www.youtube.com/watch?v=yeJLtb4BHsg
 - Slides: https://docs.google.com/presentation/d/14HS2RORDBGF0zjuF3PIN0xn-PYYBT9VDaU_p3y-d-Y4/edit?usp=sharing
 
 ### Links mentioned in the meeting
