@@ -11,7 +11,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## 2021-12-1 The Rendering Equation
-- Recording: TBA
+- Recording: https://youtu.be/akse-93ITPM
 - Paper: https://www.meetup.com/Graphics-Programming-Virtual-Meetup/events/282301946/
 - Slides: https://slides.com/lesleylai-1/rendering-equation?token=c_3McqlO
 
