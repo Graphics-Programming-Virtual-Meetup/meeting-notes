@@ -10,6 +10,29 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-12-8 Understanding BCn Texture Compression Formats
+- Recording: https://youtu.be/V57Kpj-uvGY
+- Original post: [BCn-texture-compression-formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+- Slides: https://docs.google.com/presentation/d/1BeXGKi-gkadk4xWv5DjsOIQ5F6ZVy9ub8RyOxzSUPyE/edit?usp=sharing
+
+### Links mentioned in the meeting
+- [Basis Universal texture compression format](https://github.com/BinomialLLC/basis_universal)
+- [S3 texture compression - basis for BCn](https://en.wikipedia.org/wiki/S3_Texture_Compression)
+- [Basis Universal Developer Twitter](https://twitter.com/richgel999?lang=en)
+- [Picture Coding Using Pseudo- Random Noise](https://web.archive.org/web/20060926134827/http://www.packet.cc/files/pic-code-noise.html)
+- [JuanDiegoMontoya's github pages page](https://github.com/JuanDiegoMontoya/JuanDiegoMontoya.github.io)
+- [Things raytracing does gooder](https://www.imaginationtech.com/blog/why-gamers-and-developers-should-care-about-ray-tracing/)
+- [This weeks graphics programming newsletter](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-212/)
+- [Percentage-Closer Soft Shadows](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
+- [Renderman Archive](https://github.com/tlanc007/RenderMan_Repository/tree/master/RMR/Publications)
+- [Debugging renderer 3/n - assertions](https://pharr.org/matt/blog/2021/12/02/debugging-renderers-assertions)
+- [Unreal 4 custom bloom](https://www.froyok.fr/blog/2021-12-ue4-custom-bloom/)
+- [SacriFire town walkthrough](https://twitter.com/pixelated_milk/status/1464311913601511424)
+- [Weta Digital IBL guide - video](https://www.fxguide.com/fxfeatured/the-definitive-weta-digital-guide-to-ibl/)
+- [Evolving the Path of Exile renderer](https://www.youtube.com/watch?v=whyJzrVEgVc)
+- [Atomontage - dynamic voxelization](https://client.atomontage.app/view?m=g1L01Myqr6OQ6wk4OZXhD)
+- [Atomontage - open beta launch](https://youtu.be/Mn3jMtdmnMw) 
+
 ## 2021-12-1 The Rendering Equation
 - Recording: https://youtu.be/akse-93ITPM
 - Paper: https://www.meetup.com/Graphics-Programming-Virtual-Meetup/events/282301946/
