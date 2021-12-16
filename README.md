@@ -10,6 +10,28 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-12-15 "Evolving Path of Exile's Renderer" - Watch Party
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://youtu.be/whyJzrVEgVc
+
+### Links mentioned in the meeting
+- [Real time optical wave field propagation](https://www.youtube.com/watch?v=tto9ObpMGRI )
+- [Alexander Sannikov's youtube channel](https://www.youtube.com/user/DonXenapo)
+- [Russian Language explanation of precomputed grass raytracing](https://gamedev.ru/code/articles/grass_raycast)
+- [Path traced dispersion, area lighting](https://www.youtube.com/watch?v=iIfygSNbm0I)
+- [Sparse voxel signed distance octree ray-guided GPU streaming](https://www.youtube.com/watch?v=x4M65rI0AKc)
+- [Dear Imgui profiler widget](https://github.com/Raikiri/LegitProfiler)
+- [GPU Gems Chapter 20. Texture Bombing](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch20.html )
+- [The Universe Within Shadertoy Effect](https://www.youtube.com/watch?v=GAhu4ngQa48 )
+- [LiveCoding - The Universe Within - Part 1](https://www.youtube.com/watch?v=3CycKKJiwis )
+- [Effects - Direct3D 11](https://docs.microsoft.com/en-us/windows/win32/direct3d11/d3d11-graphics-programming-guide-effects )
+- [HLSL Semantics](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics )
+- [Vanilla JavaScript Text Animation Tutorial ](https://www.youtube.com/watch?v=XGioNBHrFU4)
+- [The Chaos Game](http://www.shodor.org/interactivate/activities/TheChaosGame/)
+- [3D IFS fractal renderer and editor ](https://github.com/bezo97/IFSRenderer/tree/reproject)
+- [Sierpinski Tetrahedron tutorial in IFSRenderer](https://github.com/bezo97/IFSRenderer/wiki/Beginner:-Sierpinski-Tetrahedron)
+- [Markov Chains for Text Generation](https://jbaker.graphics/writings/markov.html)
+
 ## 2021-12-8 Understanding BCn Texture Compression Formats
 - Recording: https://youtu.be/V57Kpj-uvGY
 - Original post: [BCn-texture-compression-formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
