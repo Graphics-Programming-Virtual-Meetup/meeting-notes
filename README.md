@@ -10,6 +10,20 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-12-22 The Universe Within - Live Coding Follow Along - Week 1
+- No Recording, instead recommend watching the linked video
+- Link to the video: https://www.youtube.com/watch?v=3CycKKJiwis
+
+### Links mentioned in the meeting
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [Wikipedia: Lissajous_curve](https://en.wikipedia.org/wiki/Lissajous_curve)
+- [Vulkan Subgroup Tutorial](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
+- [CIS565](https://cis565-fall-2021.github.io/)
+- [Modern (Bindless) Sprite Batch for Vulkan (and more!)](https://jorenjoestar.github.io/post/modern_sprite_batch/)
+- [Frickin' Shaders With Frickin' Laser Beams](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
+- [Tweet on the NSO zero-click iMessage exploit](https://mobile.twitter.com/andrewcb/status/1471167682258952198)
+- [A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1)
+
 ## 2021-12-15 "Evolving Path of Exile's Renderer" - Watch Party
 - No Recording, instead recommend watching the linked video
 - Link to the video: https://youtu.be/whyJzrVEgVc
