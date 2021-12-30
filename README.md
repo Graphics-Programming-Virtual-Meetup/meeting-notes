@@ -10,9 +10,30 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
+## 2021-12-29 The Universe Within - Live Coding Follow Along - Week 2
+- No Recording, instead recommend watching the linked video
+- Links to videos:
+  - Part 1: https://youtu.be/3CycKKJiwis
+  - Part 2: https://youtu.be/KGJUl8Teipk
+
+### Links mentioned in the meeting
+- [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
+- [Shan Shui Demo](http://shan-shui-inf.lingdong.works/)
+- [jb's recursive subdivision Album](https://ibb.co/album/tL1CML)
+- [Inigo Quilez: palettes - 1999](https://www.iquilezles.org/www/articles/palettes/palettes.htm)
+- [A tweet on Generative Art of different boxes](https://mobile.twitter.com/kGolid/status/1272659548432629766)
+- [Same person's generative art](https://mobile.twitter.com/kGolid/status/1318294148416503809)
+- [Christmas Decoration for Graphics Engineers](https://www.imaginationtech.com/blog/christmas-decoration-for-graphics-engineers/)
+- [jb's softbody simulation Tweet](https://mobile.twitter.com/jbaker_graphics/status/1474535285811826689)
+- [Another of jb's softbody simulation Tweet](https://mobile.twitter.com/jbaker_graphics/status/1474780778932412416)
+- [kajiya renderer](https://docs.google.com/presentation/d/1LWo5TtWUAH9d62sGY9Sjmu1JqIs8BsxLbVDxLuhhX8U/edit#slide=id.g1093ba7dc6c_0_0)
+- [ssgi.rs in kajiya Renderer](https://github.com/EmbarkStudios/kajiya/blob/main/crates/lib/rust-shaders/src/ssgi.rs)
+- [nvidia-flip-cpp](https://github.com/rotoglup/nvidia-flip-cpp)
+- [How to use VQGAN+CLIP to generate images from a text prompt. A complete, non-technical guide to go from beginner to expert.](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
+
 ## 2021-12-22 The Universe Within - Live Coding Follow Along - Week 1
 - No Recording, instead recommend watching the linked video
-- Link to the video: https://www.youtube.com/watch?v=3CycKKJiwis
+- Link to the video: https://youtu.be/3CycKKJiwis
 
 ### Links mentioned in the meeting
 - [The Book of Shaders](https://thebookofshaders.com/)
