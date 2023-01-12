@@ -1,4 +1,5 @@
 # Graphics Programming Virtual Meetup Meeting Notes
+
 This repository contains notes for meetings of the Graphics Programming Virtual Meetup.
 
 Note, sometimes this documentation can become out-of-date.
@@ -11,59 +12,58 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## Previous Years
+
+- [2022](archive/2022.md)
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
-## 2022-01-26 "Precomputed Atmospheric Scattering"
-- Recording: TBD
-- Paper we discuss: [Precomputed Atmospheric Scattering - Eric Bruneton & Fabrice Neyret](https://hal.inria.fr/inria-00288758/document)
-- [Slides](https://1drv.ms/p/s!ApgfwuyhTQqSg-chJkEDWWyb3kXslw?e=an7SM4)
+## 2022-01-11 Two videos group watch
 
-### Links mentioned in the meeting
-- [Efficient and Dynamic Atmospheric Scattering](https://publications.lib.chalmers.se/records/fulltext/203057/203057.pdf)
-- [Shadertoy -  Atmosphere with absorption lut](https://www.shadertoy.com/view/fd33Wr)
-- [Dave Evans A Starry Sky](https://code-panda.com/pages/projects/v_1_0_0/a_starry_sky_example)
-- [Dave Evans A Starry Sky eclipse example](https://code-panda.com/pages/projects/v_1_0_0/a_starry_sky_solar_eclipse_example)
-- [Dave Evans A Starry Sky source code](https://github.com/Dante83/A-Starry-Sky)
-- [Precomputed Atmospheric Scattering: a New Implementation](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
-- [Masters thesis deferred rendering of planetary terrains with accurate atmospheres](https://www.gamedevs.org/uploads/deferred-rendering-of-planetary-terrains-with-accurate-atmospheres.pdf)
-- [A Scalable and Production Ready Sky and Atmosphere Rendering Technique](https://sebh.github.io/publications/egsr2020.pdf)
-- [A Qualitative and Quantitative Evaluation of 8 Clear Sky Models](https://hal.inria.fr/hal-01417745)
-- [A Qualitative and Quantitative Evaluation of 8 Clear Sky Models PDF](https://arxiv.org/pdf/1612.04336.pdf)
-- [Academy Color Encoding System Developer Resources](https://github.com/ampas/aces-dev)
-- [Academy Color Encoding System Developer Resources vendor supplied](https://github.com/ampas/aces-dev/tree/dev/transforms/ctl/idt/vendorSupplied)
-- [Watch Dogs 2 Graphic ShowCase | Environment Systems](https://www.youtube.com/watch?v=1_-ukUOBLuA)
-- [Purkinje effect - more blue in darker situations](https://en.wikipedia.org/wiki/Purkinje_effect)
-- [Assassin's Creed Origins - Change the time of Day](https://www.youtube.com/watch?v=khFNHkBSWhY)
-- [Scratch Pixel - Simulating colors of the sky](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky/simulating-colors-of-the-sky)
-- [Scratch Pixel - Simulating the sky](https://www.scratchapixel.com/code.php?id=52&origin=/lessons/procedural-generation-virtual-worlds/simulating-sky)
+- [Math for Game Programmers: Understanding Homogeneous Coordinates](https://youtu.be/o1n02xKP138)
+- [Radiance Caching for Real-Time Global Illumination](https://www.youtube.com/watch?v=2GYXuM10riw)
+- [Graphics Programming weekly - Issue 269 - January 8th, 2023](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-269/)
 
-## 2022-01-19 "Ray Marching Mob Programming Part 2"
-- No recording
-- Link to our final result: https://www.shadertoy.com/view/NdlcDB
-### Links mentioned in the meeting
-- [Volumetric clouds over Swiss Alps in ShaderToy](https://www.shadertoy.com/view/ttcSD8)
-- [JB SDF Path tracer](https://jbaker.graphics/writings/sdf_path.html)
-- [Enhanced sphere tracing](https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf)
-- [smin - smoothed minimum](https://iquilezles.org/www/articles/smin/smin.htm)
-- [Jaker's shadow SDF Marcher](https://www.shadertoy.com/view/sdlcD8)
-- [Precomputed Atmospheric Scattering](https://hal.inria.fr/inria-00288758/document)
-- [A Scalable and Production Ready Sky and Atmosphere Rendering Technique](https://sebh.github.io/publications/egsr2020.pdf)
-- [JB's Cloud 6](https://www.shadertoy.com/view/fld3DH)
+### Links mentioned during the meeting
 
-## 2022-01-12 "Ray Marching Mob Programming"
-- Recording: TBD
-- Link to our final result: https://www.shadertoy.com/view/sdlyD8
-### Links mentioned in the meeting
-- [Raw DirectX 12](https://alain.xyz/blog/raw-directx12)
-- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html)
-- [Not All Blue Noise is Created Equal](https://blog.demofox.org/2018/08/12/not-all-blue-noise-is-created-equal/)
-- [Not All Blue Noise is Created Equal Part 2](https://blog.demofox.org/2021/12/27/not-all-blue-noise-is-created-equal-part-2/)
-- [The History of Retro Game Consoles for Programmers](https://pikuma.com/blog/game-console-history-for-programmers)
-- [Branching on a GPU](https://medium.com/@jasonbooth_86226/branching-on-a-gpu-18bfc83694f2)
-- [Stalling a GPU](https://medium.com/@jasonbooth_86226/stalling-a-gpu-7faac66b11b9)
-- [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
-- [Mali GPU Training](https://developer.arm.com/solutions/graphics-and-gaming/arm-mali-gpu-training)
-- [PhD Thesis Fast Forward 2021](https://www.youtube.com/watch?v=un-lvuZpeMM)
-- [Cache and Bandwidth Aware Real-time Subsurface Scattering](https://thisistian.github.io/publication/cache-and-bandwidth-aware-real-time-subsurface-scattering/)
-- [[video] You Might Be Thinking About Shader Performance Wrong](https://www.youtube.com/watch?v=7YPPFIqUN84)
+- [A Trip Down The Graphics Pipeline: The Homogeneous Perspective Transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
+- [Radiance Caching for Efficient Global Illumination Computation](http://www.irisa.fr/prive/kadi/SiteEquipeAsociee/Site_RTR2A/Papiers/ieee_TVCG.pdf)
+- [Survey of Efficient Representations for Independent Unit Vectors](https://jcgt.org/published/0003/02/01/)
+- [Oct encoding](http://carldixon.net/?entry=entry150121-200123)
+- [Practical Tips for Optimizing Ray Tracing](https://developer.nvidia.com/blog/practical-tips-for-optimizing-ray-tracing/)
+- [Let’s talk about (GPU) crashes](https://gpuopen.com/presentations/2022/Reboot%20Blue%202022%20-%20Lets%20talk%20about%20GPU%20crashes.pdf)
+- [SPVM](https://github.com/keith2018/spvm) - Tiny C++ SPIR-V virtual machine
+- [[pptx] Deep Dive into FidelityFX Super Resolution 2](https://gpuopen.com/presentations/2022/Reboot%20Blue%202022%20-%20A%20Deep%20Dive%20into%20FidelityFX%20Super%20Resolution%202.pptx)
+- [RedGPU](https://github.com/redcamel/RedGPU) - Javascript WebGPU Library
+- [Updates in d3dx12.h: Nuget Packaging, Header Bloat Reduction, and D3DX12GetCopyableFootprints](https://devblogs.microsoft.com/directx/updates-in-directx-headers-repo/)
+- [IrradianceCaching.cpp in Unreal Engine](https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Plugins/Experimental/GPULightmass/Source/GPULightmass/Private/IrradianceCaching.cpp)
+- [[video]Fault Formation // Terrain Rendering episode 2](https://www.youtube.com/watch?v=z9YML6j5yDg)
+- [ID3D12Device::GetCopyableFootprints method (d3d12.h)](https://learn.microsoft.com/en-us/windows/win32/api/d3d12/nf-d3d12-id3d12device-getcopyablefootprints)
+- [Simple Particle-Based Hydraulic Erosion](https://nickmcd.me/2020/04/10/simple-particle-based-hydraulic-erosion/)
+- [World Machine: The Premier 3D Terrain Generator](https://www.world-machine.com/)
+- [Nick's blog](https://nickmcd.me/) - A nice blog with a lot of good contents about procedural generation and simulation
+- [Building Worlds in No Man's Sky Using Math(s)](https://www.youtube.com/watch?v=C9RyEiEzMiU)
+- [Continuous World Generation in 'No Man's Sky'](https://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No)
+- [OpenSimplex Noise](https://github.com/lmas/opensimplex)
+- [OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2)
+- [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)
+- [FastNoise2](https://github.com/Auburn/FastNoise2)
+
+## 2022-01-04 Teardown teardown
+
+Jaker (our presenter): https://github.com/JuanDiegoMontoya
+
+### Links mentioned during the meeting
+
+- [Tuxedo Labs Teardown Technical Teardown - Twitch vod 26/11](https://www.youtube.com/watch?v=0VzE8ROwC58)
+- [Radiance Caching for Real-Time Global Illumination](https://www.youtube.com/watch?v=2GYXuM10riw)
+- [DFAO-unity](https://github.com/ZephyrL/DFAO-unity)
+- [Experimenting with fp16 in shaders](https://interplayoflight.wordpress.com/2022/12/30/experimenting-with-fp16-in-shaders/)
+- [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
+- [Owen's Rust image manipulation project that uses k-means cluster](https://github.com/CampbellOwen/NowPlaying/tree/master/dither_rust)
+- [One letter variable names](https://simblob.blogspot.com/2023/01/one-letter-variable-names.html)
+- [Einstein notation](https://en.m.wikipedia.org/wiki/Einstein_notation)
+- [Column Major and Row Major Vectors and Matrices (for games)](https://pr0g.github.io/mathematics/matrix/2022/12/26/column-row-major.html)
+- [Hexagonal Tiling Explained!](https://www.youtube.com/watch?v=VmrIDyYiJBA)
+- [Perfect Pistons in Shadertoy](https://www.youtube.com/watch?v=I8fmkLK1OKg)
+- [The Nebraska Problem](https://caseymuratori.com/blog_0011)
+- [Unity Mobile Game Performance Optimization: Balance between Graphics Performance and GPU Pressure](https://blog.en.uwa4d.com/2022/12/28/unity-mobile-game-performance-optimization-the-balance-between-graphics-performance-and-gpu-pressure)
