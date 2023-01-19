@@ -17,7 +17,30 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
-## 2022-01-11 Two videos group watch
+## 2023-01-18 Group Read of ReSTIR lecture
+
+- [ReSTIR lectur](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
+- [The master course Advanced Graphics](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/)
+
+### Links mentioned during the meeting
+
+- [Temporal reprojection Shadertoy](https://www.shadertoy.com/view/ldtGWl)
+- [New Fast Binary Pyramid Motion Estimation for MPEG-2 and HDTVEnco ding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/phase_binary_pyramid_motion_estimation_mpeg2_hdtv.pdf)
+- [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf)
+- [Temporal AA and the quest for the Holy Trail](https://www.elopezr.com/temporal-aa-and-the-quest-for-the-holy-trail)
+- [ Path traced GI Shadertoy](https://www.shadertoy.com/view/Wt3XRX)
+- [Robot Lab scene in Arauna2](https://youtu.be/Znr1JJLI5uY)
+- [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
+- [Monte Carlo Integral with Multiple Importance Sampling](https://agraphicsguynotes.com/posts/monte_carlo_integral_with_multiple_importance_sampling/)
+- [Sphere Projection](https://iquilezles.org/articles/sphereproj/)
+- [Lissajous curve](https://en.wikipedia.org/wiki/Lissajous_curve)
+- [Why don't they teach this simple visual solution? (Lill's method)](https://www.youtube.com/watch?v=IUC-8P0zXe8)
+- [Hidden Line Removal](https://jbaker.graphics/writings/hiddenLineRemoval.html)
+- [flow-lines visualizer](https://msurguy.github.io/flow-lines/)
+- [tinyexr source code](https://github.com/syoyo/tinyexr)
+- [Apparent Ridges for Line Drawings](http://people.csail.mit.edu/tjudd/apparentridges.html)
+
+## 2023-01-11 Two videos group watch
 
 - [Math for Game Programmers: Understanding Homogeneous Coordinates](https://youtu.be/o1n02xKP138)
 - [Radiance Caching for Real-Time Global Illumination](https://www.youtube.com/watch?v=2GYXuM10riw)
@@ -48,7 +71,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)
 - [FastNoise2](https://github.com/Auburn/FastNoise2)
 
-## 2022-01-04 Teardown teardown
+## 2023-01-04 Teardown teardown
 
 Jaker (our presenter): https://github.com/JuanDiegoMontoya
 
