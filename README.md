@@ -19,7 +19,7 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 
 ## 2023-01-18 Group Read of ReSTIR lecture
 
-- [ReSTIR lectur](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
+- [ReSTIR lecture by Jacco Bikker](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
 - [The master course Advanced Graphics](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/)
 
 ### Links mentioned during the meeting
