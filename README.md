@@ -17,6 +17,76 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
+## 2023-02-15 Group Read of "Let's remove Quaternions from every 3D Engine"
+- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
+
+### Links mentioned during the meeting
+- [Terathon-Math-Library]( https://github.com/EricLengyel/Terathon-Math-Library)
+- [Siggraph2019 Geometric Algebra](https://youtu.be/tX4H_ctggYo)
+- [Geometric Algebra Library - ganja](https://github.com/enkimute/ganja.js)
+- [Projective Geometric Algebra Reference Sheet](http://projectivegeometricalgebra.org/)
+- [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+- [Visual differential geometry and forms textbook](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
+- [Category Theory for Programmers: Blog/book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [Video lecture: Category Theory 2.1: Functions, epimorphisms](https://www.youtube.com/watch?v=O2lZkr-aAqk&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=15&ab_channel=BartoszMilewski)
+- [PBR Diffuse Lighting for GGX+Smith Microsurfaces](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2017/Presentations/Hammon_Earl_PBR_Diffuse_Lighting.pdf)
+- [Tone Reproduction for Realistic Images](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/classes/cs294-appearance_models/sp2001/cache/tumblin93.pdf)
+- [LegitProfiler](https://github.com/Raikiri/LegitProfiler)
+- [Alexander Sannikov's youtube](https://www.youtube.com/@Alexander_Sannikov/videos)
+- [Temporal Supersampling GDC 2016](https://www.dropbox.com/sh/dmye840y307lbpx/AAAQpC0MxMbuOsjm6XmTPgFJa)
+- [Dynamic Diffuse Global Illumination](https://morgan3d.github.io/articles/2019-04-01-ddgi/)
+- [3D Terrain Engine Test 2 - Camera Visibility and Frustum Culling](https://www.youtube.com/watch?v=2xptD-yn3qg&t=11s&ab_channel=ManifestFramework)
+- [LearnOpenGL Frustum Culling](https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling)
+- [OpenGL Scene-Rendering Techniques](https://on-demand.gputechconf.com/siggraph/2014/presentation/SG4117-OpenGL-Scene-Rendering-Techniques.pdf)
+- [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer/)
+- [jbDE - the jb Demo Engine](https://github.com/0xBAMA/jbDE)
+
+
+## 2023-02-08 Group Read of "Quaternions Visualized"
+ - [Quaternions Visualized](https://eater.net/quaternions)
+
+### Links mentioned during the meeting
+ - [Ben Eaters 8 bit logic gate computer](https://eater.net/8bit/)
+ - [Laptop Like It’s 1979 With A 16-Core Z80 On An FPGA](https://hackaday.com/2019/12/10/laptop-like-its-1979-with-a-16-core-z80-on-an-fpga/)
+ - [Essential Math for Games Programmers textbook](https://www.essentialmath.com/book.htm)
+ - [Quaternions for Computer Graphics](https://link.springer.com/book/10.1007/978-0-85729-760-0)
+ - [Understanding Slerp Then Not Using It - Jonathan Blow](http://number-none.com/product/Understanding%20Slerp,%20Then%20Not%20Using%20It/)
+ - [WebGPU meeting minutes - decision to create WGSL](https://docs.google.com/document/d/1F6ns6I3zs-2JL_dT9hOkX_253vEtKxuUkTGvxpuv8Ac)
+ - [OpenGL Longs Peak presentation deck](https://www.khronos.org/assets/uploads/developers/library/gdc_2007/OpenGL/A-peek-inside-OpenGL-Longs-Peak.pdf)
+ - [Rockstar Programming Language](https://codewithrockstar.com/)
+ - [Vigil programming language](https://github.com/munificent/vigil)
+ - [Stable Diffusion Tutorials](https://www.reddit.com/r/StableDiffusion/wiki/tutorials)
+ - [Owen's pen plotter stuff](https://openprocessing.org/user/360212?o=17&view=sketches)
+ - [Stable Diffusion 1.5 - Windows Installation Guide](https://youtu.be/ycQJDJ-qNI8)
+ - [Researchers Prove AI Art Generators Can Simply Copy Existing Images](https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656)
+ - [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS](https://laion.ai/blog/laion-5b/)
+ - [Hayao Miyazaki's take on ai art](https://www.youtube.com/watch?v=ngZ0K3lWKRc)
+ - [.kkriger dev blog](https://fgiesen.wordpress.com/2012/04/08/metaprogramming-for-madmen/) 
+
+## 2023-02-01 Group Read of PBRTv3 Chapter 13.5-13.6
+- [PBRT Book's Monte Carlo Integration](https://pbr-book.org/3ed-2018/Monte_Carlo_Integration)
+### Links mentioned during the meeting
+- [Bayes Theorum wikipedia](https://en.wikipedia.org/wiki/Bayes_theorem)
+- [What is Jacobian? | The right way of thinking derivatives and integrals](https://youtu.be/wCZ1VEmVjVo)
+- [Common spherical coordinates](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/1920px-3D_Spherical.svg.png)
+- [RIOW uniform sphere sampling](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html#generatingrandomdirections/uniformsamplingahemisphere)
+- [Desmos cosine hemisphere sampling](https://www.desmos.com/calculator/prodcnr5ak)
+- [Adobe Standard Material specification](https://substance3d.adobe.com/documentation/s3d/files/225969597/225969613/1/1647027222890/Adobe+Standard+Material+-+Specification.pdf)
+- [This week's graphics programming weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-272/)
+- [Porting Detroit Become Human to Vulkan](https://gpuopen.com/learn/porting-detroit-1/)
+- [How to force the driver to compile your pipelines in OpenGL](https://github.com/JuanDiegoMontoya/Fwog/blob/pipeline-compile-optimization/src/detail/PipelineManager.cpp#L85)
+- [How Microsoft Uses C++ to Deliver Office](https://www.youtube.com/watch?v=0QtX-nMlz0Q)
+
+## 2023-01-25
+- What we planned to do: [Understanding the math behind ReSTIR](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
+- What we actually did: [PBRT Book's Monte Carlo Integration](https://pbr-book.org/3ed-2018/Monte_Carlo_Integration)
+### Links mentioned during the meeting 
+- [Lesley's PI Estimator](https://gist.github.com/LesleyLai/4ae6229e5e1437ea385a8694cec9e285)
+- [Advances in Spatial Hashing: A Pragmatic Approach to Robust, Real-time Light Transport](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41194/)
+- [How to rotate images and text in MS Paint](https://youtu.be/yi8lVUbrdHI)
+- [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc)
+- [Tom 7's youtube aka suckerpinch](https://www.youtube.com/watch?v=DpXy041BIlA)
+
 ## 2023-01-18 Group Read of ReSTIR lecture
 
 - [ReSTIR lecture by Jacco Bikker](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/files/lecture%2014%20-%20ReSTIR.pdf)
