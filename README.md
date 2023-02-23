@@ -17,6 +17,28 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
+## 2023-02-22 Group Read of Frustum Culling
+- [Frustum Culling - Learn OpenGL](https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling)
+- [Frustum Culling Code in Lesley's Grass Renderer](https://github.com/LesleyLai/GLGrassRenderer/blob/b6b2a301b72abea61044bb375a4d7ed4e423dbde/data/grass.comp.glsl#L69-L81)
+- [Frustum Culling - Gamedev.net](https://www.gamedev.net/tutorials/programming/general-and-gameplay-programming/frustum-culling-r4613/)
+- [Frustum Culling - Note on Computer Graphics](https://bruop.github.io/frustum_culling/)
+- [View frustum culling optimization series - zeux](https://zeux.io/2009/01/31/view-frustum-culling-optimization-introduction/)
+- [Logarithmic Depth Buffer](https://outerra.blogspot.com/2009/08/logarithmic-z-buffer.html)
+- [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design)
+- [Andrew Kelley - Practical DOD](https://vimeo.com/649009599)
+- [Graphics Programming weekly - Issue 275 - February 19th, 2023](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-275/)
+- [Impressions from Vulkanised 2023 Conference](https://asawicki.info/news_1765_impressions_from_vulkanised_2023_conference)
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
+- [Parallax Occlusion Optimization - Advanced Materials - Episode 15](https://www.youtube.com/watch?v=8hThP-Yni_o)
+- [Float Compression series - Aras Pranckevičius](https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/)
+- [Fast Real-Time Shading for Polygonal Hair](https://arxiv.org/pdf/2302.06468.pdf)
+- [Writing a Physics Engine from scratch - collision detection optimization](https://www.youtube.com/watch?v=9IULfQH7E90)
+- [Iterated function system](https://en.wikipedia.org/wiki/Iterated_function_system)
+- [The Fractal Flame Algorithm](https://flam3.com/flame_draves.pdf)
+- [GPU-Accelerated Rendering of Unbounded Nonlinear Iterated Function System Fixed Point](https://www.cs.uaf.edu/~olawlor/papers/2011/ifs/lawlor_ifs_2011.pdf)
+- [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+
+
 ## 2023-02-15 Group Read of "Let's remove Quaternions from every 3D Engine"
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
