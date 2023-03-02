@@ -17,7 +17,10 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
-@@ 2023-03-01 Group Q&A Session
+## 2023-03-01 Group Q&A Session
+- [Transcript](2023-03-01%20Q&A%20transcript.md)
+
+### Links mentioned during the meeting
 - [Vulkanised 2023: Vulkan for All (Keynote)](https://www.youtube.com/watch?v=Z2bzP6bUC5I&ab_channel=Vulkan)
 - [Writing a Physics Engine from scratch - collision detection optimization](https://www.youtube.com/watch?v=9IULfQH7E90&ab_channel=Pezzza%27sWork)
 - [Ten Minute Physics Youtube Channel](https://www.youtube.com/@TenMinutePhysics/videos)
