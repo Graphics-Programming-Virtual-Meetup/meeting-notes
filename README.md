@@ -18,6 +18,31 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
 
+## 2024-12-04 Physically Based Rendering V4 7.3 Group Read
+- [7.3 Bounding Volume Hierarchies](https://pbr-book.org/4ed/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies)
+
+### Links Mentioned
+
+- [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
+- [godot-jolt](https://github.com/godot-jolt/godot-jolt)
+- [Parallel Locally-Ordered Clustering for Bounding Volume Hierarchy Construction](https://meistdan.github.io/publications/ploc/paper.pdf)
+- [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
+- [Youtube: GPU driven rendering in AnKi 3D Engine](https://www.youtube.com/watch?v=QNN3JOI551A)
+- [Frames In Flight Explained](https://erfan-ahmadi.github.io/blog/Nabla/fif)
+- [Sampling methods for pre-filtering diffuse Image Based Lighting](https://www.youtube.com/watch?v=JORUK7Ndlv4)
+- [What's next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
+- [Behind the Pretty Frames: Detroit Become Human](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human)
+- [Graphics Programming Conference Talks](https://www.youtube.com/@GraphicsProgrammingConference/videos)
+- [Youtube: Occupancy Explained Through the AMD RDNA™ Architecture](https://www.youtube.com/watch?v=sHFb5Xfwl9M)
+- [Occupancy Explained slides](https://gpuopen.com/presentations/2024/GPC24_Occupancy_explained.pdf)
+- [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
+- [A guide to fast voxel ray tracing using sparse 64-trees](https://dubiousconst282.github.io/2024/10/03/voxel-ray-tracing/)
+- [Hidden Surface Removal in Immortalis-G925: The Fragment Prepass](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/immortalis-g925-the-fragment-prepass)
+- [My recommended Books](https://www.jendrikillner.com/books/)
+- [Bluesky threads: Differentiable Graphics with Slang.D for Appearance-Based Optimization](https://bsky.app/profile/bartwr.bsky.social/post/3lbvaozvyyc2g)
+- [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
+- [Modern Vulkan Application Sample](https://github.com/nvpro-samples/vk_minimal_latest)
+
 ## 2024-11-27 Group watch of "Beyond White Noise for Real-Time Rendering"
 - [Youtube: Beyond White Noise for Real-Time Rendering](https://www.youtube.com/watch?v=tethAU66xaA)
 - [Beyond White Noise for Real-Time Rendering Slides](https://www.ea.com/seed/news/beyond-white-noise)
