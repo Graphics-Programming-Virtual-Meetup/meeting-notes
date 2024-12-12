@@ -8,7 +8,6 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
-- Follow use on Twitter: https://twitter.com/GraphicsMeetup
 - Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## Previous Years
@@ -17,6 +16,16 @@ visit our [discord server](https://discord.gg/TsTDb4uYfR).
 - [2022](archive/2022.md)
 - [2021](archive/2021.md)
 - [2020](archive/2020.md)
+
+## 2024-12-11 Two Blue Noise Blog Posts Group Read
+- [What the Heck is Blue Noise?](https://blog.demofox.org/2018/01/30/what-the-heck-is-blue-noise/)
+- [Generating Blue Noise Sample Points With Mitchell’s Best Candidate Algorithm](https://blog.demofox.org/2017/10/20/generating-blue-noise-sample-points-with-mitchells-best-candidate-algorithm/)
+
+### Links Mentioned
+- [Free blue noise textures](https://momentsingraphics.de/BlueNoise.html)
+- [Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering](https://jo.dreggn.org/home/2010_atrous.pdf)
+- [Our past meeting on Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering](https://youtu.be/_NwJd0pg4Fo?si=GEHP187yyh9M8jtw)
+- [The Lobster Programming Language](https://www.strlen.com/lobster/)
 
 ## 2024-12-04 Physically Based Rendering V4 7.3 Group Read
 - [7.3 Bounding Volume Hierarchies](https://pbr-book.org/4ed/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies)
